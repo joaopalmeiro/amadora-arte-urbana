@@ -7,9 +7,11 @@ name = "pypi"
 pandas = "*"
 jupyterlab = "*"
 openpyxl = "*"
+pandasgui = "*"
 
 [dev-packages]
 black = {extras = ["jupyter"], version = "*"}
+isort = "*"
 
 [requires]
 python_version = "3.8"

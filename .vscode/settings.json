@@ -1,0 +1,15 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.formatOnSave": false
+    },
+    "[javascriptreact]": {
+        "editor.formatOnSave": false
+    },
+
+    "workbench.colorTheme": "Deepdark Material Theme | Full Black Version",
+    "workbench.iconTheme": "material-icon-theme"
+}
