@@ -1,5 +1,6 @@
 [
     {
+        "id":1,
         "name":"Sem título",
         "autoria":"Odeith",
         "localizacao":"Troço IC17\/Cril",
@@ -13,6 +14,7 @@
         "autoria_extra":null
     },
     {
+        "id":2,
         "name":"Sem título",
         "autoria":"Dzenhart",
         "localizacao":"Troço IC17\/Cril",
@@ -26,6 +28,7 @@
         "autoria_extra":null
     },
     {
+        "id":3,
         "name":"Bob Marley",
         "autoria":"Odeith",
         "localizacao":"Bairro da Cova da Moura",
@@ -39,6 +42,7 @@
         "autoria_extra":null
     },
     {
+        "id":4,
         "name":"Os verdadeiros heróis nunca serão esquecidos",
         "autoria":"Odeith",
         "localizacao":"Rua Dr. Francisco Sousa Tavares",
@@ -52,6 +56,7 @@
         "autoria_extra":null
     },
     {
+        "id":5,
         "name":"Sem título",
         "autoria":"GVS Crew",
         "localizacao":"Troço IC17\/Cril",
@@ -65,6 +70,7 @@
         "autoria_extra":null
     },
     {
+        "id":6,
         "name":"Sem título",
         "autoria":"Smile",
         "localizacao":"Troço IC17\/Cril",
@@ -78,6 +84,7 @@
         "autoria_extra":null
     },
     {
+        "id":7,
         "name":"Sem título",
         "autoria":"Arm Collective",
         "localizacao":"Troço IC17\/Cril",
@@ -91,6 +98,7 @@
         "autoria_extra":null
     },
     {
+        "id":8,
         "name":"Sem título",
         "autoria":"Kreyz",
         "localizacao":"Troço IC17\/Cril",
@@ -104,6 +112,7 @@
         "autoria_extra":null
     },
     {
+        "id":9,
         "name":"HULK",
         "autoria":"NoMen",
         "localizacao":"Troço IC17\/Cril",
@@ -117,6 +126,7 @@
         "autoria_extra":null
     },
     {
+        "id":10,
         "name":"Quem tudo quer, tudo tem !?",
         "autoria":"Ble\/Reis",
         "localizacao":"Troço IC17\/Cril",
@@ -130,6 +140,7 @@
         "autoria_extra":null
     },
     {
+        "id":11,
         "name":"Sem título",
         "autoria":"Caos",
         "localizacao":"Troço IC17\/Cril",
@@ -143,6 +154,7 @@
         "autoria_extra":null
     },
     {
+        "id":12,
         "name":"Sem título",
         "autoria":"Mar",
         "localizacao":"Troço IC17\/Cril",
@@ -156,6 +168,7 @@
         "autoria_extra":null
     },
     {
+        "id":13,
         "name":"Sem título",
         "autoria":"Typer",
         "localizacao":"Troço IC17\/Cril",
@@ -169,6 +182,7 @@
         "autoria_extra":null
     },
     {
+        "id":14,
         "name":"Sem título",
         "autoria":"Vile",
         "localizacao":"Troço IC17\/Cril",
@@ -182,6 +196,7 @@
         "autoria_extra":null
     },
     {
+        "id":15,
         "name":"Sem título",
         "autoria":"NoMen",
         "localizacao":"Troço IC17\/Cril",
@@ -195,6 +210,7 @@
         "autoria_extra":null
     },
     {
+        "id":16,
         "name":"Sem título",
         "autoria":"Ram e Odeith",
         "localizacao":"Troço IC17\/Cril",
@@ -208,6 +224,7 @@
         "autoria_extra":null
     },
     {
+        "id":17,
         "name":"Sem título",
         "autoria":"NoMen",
         "localizacao":"Troço IC17\/Cril",
@@ -221,6 +238,7 @@
         "autoria_extra":null
     },
     {
+        "id":18,
         "name":"Sem título",
         "autoria":"Odeith",
         "localizacao":"Troço IC17\/Cril",
@@ -234,6 +252,7 @@
         "autoria_extra":null
     },
     {
+        "id":19,
         "name":"Sem título",
         "autoria":"NoMen",
         "localizacao":"Troço IC17\/Cril",
@@ -247,6 +266,7 @@
         "autoria_extra":null
     },
     {
+        "id":20,
         "name":"Sem título",
         "autoria":"Maismenos (+-)",
         "localizacao":"Troço IC17\/Cril",
@@ -260,6 +280,7 @@
         "autoria_extra":null
     },
     {
+        "id":21,
         "name":"Sem título",
         "autoria":"Que?",
         "localizacao":"Troço IC17\/Cril",
@@ -273,6 +294,7 @@
         "autoria_extra":null
     },
     {
+        "id":22,
         "name":"Sem título",
         "autoria":"Mar",
         "localizacao":"Troço IC17\/Cril",
@@ -286,6 +308,7 @@
         "autoria_extra":null
     },
     {
+        "id":23,
         "name":"Sem título",
         "autoria":"Risko",
         "localizacao":"Troço IC17\/Cril",
@@ -299,6 +322,7 @@
         "autoria_extra":null
     },
     {
+        "id":24,
         "name":"Sem título",
         "autoria":"Mito",
         "localizacao":"Troço IC17\/Cril",
@@ -312,6 +336,7 @@
         "autoria_extra":null
     },
     {
+        "id":25,
         "name":"IT ALL FALLS DOWN",
         "autoria":"Akacorleone",
         "localizacao":"Fórum Luís de Camões",
@@ -325,6 +350,7 @@
         "autoria_extra":null
     },
     {
+        "id":26,
         "name":"Sem título",
         "autoria":"Odeith e Milu Correch",
         "localizacao":"Rua Dr. Francisco Sousa Tavares",
@@ -338,6 +364,7 @@
         "autoria_extra":null
     },
     {
+        "id":27,
         "name":"Sem título",
         "autoria":"Odeith",
         "localizacao":"Rua Dr. Francisco Sousa Tavares",
@@ -351,6 +378,7 @@
         "autoria_extra":null
     },
     {
+        "id":28,
         "name":"Legionários",
         "autoria":"Odeith e Vile",
         "localizacao":"Rua Dr. Francisco Sousa Tavares",
@@ -364,6 +392,7 @@
         "autoria_extra":null
     },
     {
+        "id":29,
         "name":"Sem título",
         "autoria":"Odeith\/LGN Crew",
         "localizacao":"Rua Dr. Francisco Sousa Tavares",
@@ -377,6 +406,7 @@
         "autoria_extra":null
     },
     {
+        "id":30,
         "name":"Eusébio",
         "autoria":"Odeith",
         "localizacao":"Bairro da Cova da Moura",
@@ -390,6 +420,7 @@
         "autoria_extra":null
     },
     {
+        "id":31,
         "name":"Sem título",
         "autoria":"Odeith",
         "localizacao":"Rua Dr. Francisco Sousa Tavares",
@@ -403,6 +434,7 @@
         "autoria_extra":null
     },
     {
+        "id":32,
         "name":"Sem título",
         "autoria":"Vários",
         "localizacao":"Rua do Liceu",
@@ -416,6 +448,7 @@
         "autoria_extra":"Raps, Vespa, Sken, New, Styler, 1ma63, Creyz, Vile, Rote, Odeith, Eko, Molin"
     },
     {
+        "id":33,
         "name":"Sem título",
         "autoria":"Tko\/Pariz One\/Gvs Crew",
         "localizacao":"Troço IC17\/Cril",
@@ -429,6 +462,7 @@
         "autoria_extra":null
     },
     {
+        "id":34,
         "name":"Sem título",
         "autoria":"Odeith",
         "localizacao":"Troço IC17\/Cril",
@@ -442,6 +476,7 @@
         "autoria_extra":null
     },
     {
+        "id":35,
         "name":"Sem título",
         "autoria":"Slap",
         "localizacao":"Troço IC17\/Cril",
@@ -455,6 +490,7 @@
         "autoria_extra":null
     },
     {
+        "id":36,
         "name":"Sem título",
         "autoria":"Tko\/Pariz One\/Gvs Crew",
         "localizacao":"Troço IC17\/Cril",
@@ -468,6 +504,7 @@
         "autoria_extra":null
     },
     {
+        "id":37,
         "name":"Sem título",
         "autoria":"Mask",
         "localizacao":"Troço IC17\/Cril",
@@ -481,6 +518,7 @@
         "autoria_extra":null
     },
     {
+        "id":38,
         "name":"Sem título",
         "autoria":"Sam Uray",
         "localizacao":"Troço IC17\/Cril",
@@ -494,6 +532,7 @@
         "autoria_extra":null
     },
     {
+        "id":39,
         "name":"Sem título",
         "autoria":"Vile",
         "localizacao":"Troço IC17\/Cril",
@@ -507,6 +546,7 @@
         "autoria_extra":null
     },
     {
+        "id":40,
         "name":"Sem título",
         "autoria":"Mar",
         "localizacao":"Troço IC17\/Cril",
@@ -520,6 +560,7 @@
         "autoria_extra":null
     },
     {
+        "id":41,
         "name":"Sem título",
         "autoria":"Azylum\/ACS",
         "localizacao":"Troço IC17\/Cril",
@@ -533,6 +574,7 @@
         "autoria_extra":null
     },
     {
+        "id":42,
         "name":"Sem título",
         "autoria":"Glam & Travis",
         "localizacao":"Troço IC17\/Cril",
@@ -546,6 +588,7 @@
         "autoria_extra":null
     },
     {
+        "id":43,
         "name":"Sem título",
         "autoria":"Kreyz",
         "localizacao":"Troço IC17\/Cril",
@@ -559,6 +602,7 @@
         "autoria_extra":null
     },
     {
+        "id":44,
         "name":"Sem título",
         "autoria":"Risko",
         "localizacao":"Troço IC17\/Cril",
@@ -572,6 +616,7 @@
         "autoria_extra":null
     },
     {
+        "id":45,
         "name":"Sem título",
         "autoria":"Gramaxo & Barbosa",
         "localizacao":"Rua Henrique Paiva Couceiro",
@@ -585,6 +630,7 @@
         "autoria_extra":null
     },
     {
+        "id":46,
         "name":"Sem título",
         "autoria":"Reis",
         "localizacao":"Troço IC17\/Cril",
@@ -598,6 +644,7 @@
         "autoria_extra":null
     },
     {
+        "id":47,
         "name":"Sem título",
         "autoria":"GVS\/VDS Crews",
         "localizacao":"Rua do Parque",
@@ -611,6 +658,7 @@
         "autoria_extra":null
     },
     {
+        "id":48,
         "name":"Sem título",
         "autoria":"GVS Crew",
         "localizacao":"Rua do Parque",
@@ -624,6 +672,7 @@
         "autoria_extra":null
     },
     {
+        "id":49,
         "name":"Sem título",
         "autoria":"Raps",
         "localizacao":"Rua do Parque",
@@ -637,6 +686,7 @@
         "autoria_extra":null
     },
     {
+        "id":50,
         "name":"Sem título",
         "autoria":"Fone e Risko",
         "localizacao":"Rua do Parque",
@@ -650,6 +700,7 @@
         "autoria_extra":null
     },
     {
+        "id":51,
         "name":"Sem título",
         "autoria":"Eko\/Pariz One\/GVS Crew",
         "localizacao":"Rua do Parque",
@@ -663,6 +714,7 @@
         "autoria_extra":null
     },
     {
+        "id":52,
         "name":"Sem título",
         "autoria":"Caos",
         "localizacao":"Troço IC17\/Cril",
@@ -676,6 +728,7 @@
         "autoria_extra":null
     },
     {
+        "id":53,
         "name":"Sem título",
         "autoria":"Pedro Gramaxo",
         "localizacao":"Troço IC17\/Cril",
@@ -689,6 +742,7 @@
         "autoria_extra":null
     },
     {
+        "id":54,
         "name":"Sem título",
         "autoria":"Slap",
         "localizacao":"Troço IC17\/Cril",
@@ -702,6 +756,7 @@
         "autoria_extra":null
     },
     {
+        "id":55,
         "name":"Sem título",
         "autoria":"Klit",
         "localizacao":"Troço IC17\/Cril",
@@ -715,6 +770,7 @@
         "autoria_extra":null
     },
     {
+        "id":56,
         "name":"Sem título",
         "autoria":"Obey",
         "localizacao":"Troço IC17\/Cril",
@@ -728,6 +784,7 @@
         "autoria_extra":null
     },
     {
+        "id":57,
         "name":"Sem título",
         "autoria":"Nark",
         "localizacao":"Troço IC17\/Cril",
@@ -741,6 +798,7 @@
         "autoria_extra":null
     },
     {
+        "id":58,
         "name":"Sem título",
         "autoria":"Utopia",
         "localizacao":"Troço IC17\/Cril",
@@ -754,6 +812,7 @@
         "autoria_extra":null
     },
     {
+        "id":59,
         "name":"Sem título",
         "autoria":"GVS Crew",
         "localizacao":"Troço IC17\/Cril",
@@ -767,6 +826,7 @@
         "autoria_extra":null
     },
     {
+        "id":60,
         "name":"Sem título",
         "autoria":"Ble",
         "localizacao":"Troço IC17\/Cril",
@@ -780,6 +840,7 @@
         "autoria_extra":null
     },
     {
+        "id":61,
         "name":"Sem título",
         "autoria":"David Simões",
         "localizacao":"Troço IC17\/Cril",
@@ -793,6 +854,7 @@
         "autoria_extra":null
     },
     {
+        "id":62,
         "name":"Sem título",
         "autoria":"Nark",
         "localizacao":"Troço IC17\/Cril",
@@ -806,6 +868,7 @@
         "autoria_extra":null
     },
     {
+        "id":63,
         "name":"Sem título",
         "autoria":"Slap",
         "localizacao":"Troço IC17\/Cril",
@@ -819,6 +882,7 @@
         "autoria_extra":null
     },
     {
+        "id":64,
         "name":"Sem título",
         "autoria":"Vile",
         "localizacao":"Troço IC17\/Cril",
@@ -832,6 +896,7 @@
         "autoria_extra":null
     },
     {
+        "id":65,
         "name":"Amália Rodrigues",
         "autoria":"Odeith",
         "localizacao":"Rua Dr. Francisco Sousa Tavares",
@@ -845,6 +910,7 @@
         "autoria_extra":null
     },
     {
+        "id":66,
         "name":"In Memory of H.R. Giger",
         "autoria":"Odeith",
         "localizacao":"Rua do Liceu",
@@ -858,6 +924,7 @@
         "autoria_extra":null
     },
     {
+        "id":67,
         "name":"Sem título",
         "autoria":"Miguel Brum",
         "localizacao":"Estaleiros Municipais da CMA. Estrada da Serra da Mira",
@@ -871,6 +938,7 @@
         "autoria_extra":null
     },
     {
+        "id":68,
         "name":"O virar da página",
         "autoria":"Glam",
         "localizacao":"Avenida Conde Castro Guimarães",
@@ -884,6 +952,7 @@
         "autoria_extra":null
     },
     {
+        "id":69,
         "name":"Sem título",
         "autoria":"Creyz\/Esc. Prof. Gustavo Eiffel",
         "localizacao":"Rua João de Deus",
@@ -897,6 +966,7 @@
         "autoria_extra":null
     },
     {
+        "id":70,
         "name":"Sem título",
         "autoria":"VFM\/GVS",
         "localizacao":"Rua Moinho da Galega",
@@ -910,6 +980,7 @@
         "autoria_extra":null
     },
     {
+        "id":71,
         "name":"Sem título",
         "autoria":"Rote\/Eko\/Dzer\/MLK",
         "localizacao":"Rua Moinho da Galega",
@@ -923,6 +994,7 @@
         "autoria_extra":null
     },
     {
+        "id":72,
         "name":"Sem título",
         "autoria":"Eko\/MDK\/FMK",
         "localizacao":"Rua Moinho da Galega",
@@ -936,6 +1008,7 @@
         "autoria_extra":null
     },
     {
+        "id":73,
         "name":"Carlos Paredes",
         "autoria":"Odeith",
         "localizacao":"Empena do prédio N.º 16 da R. António Duarte Caneças",
@@ -949,6 +1022,7 @@
         "autoria_extra":null
     },
     {
+        "id":74,
         "name":"Sem título",
         "autoria":"APAURB",
         "localizacao":"Rua Capitão Plácido de Abreu",
@@ -962,6 +1036,7 @@
         "autoria_extra":"Slap, Uber, Kurtz, Ephan e Dome"
     },
     {
+        "id":75,
         "name":"Sem título",
         "autoria":"Ana Dias e Elsa Pedrosa",
         "localizacao":"Caminho da Fonte",
@@ -975,6 +1050,7 @@
         "autoria_extra":null
     },
     {
+        "id":76,
         "name":"Sem título",
         "autoria":"NADA e Damn One",
         "localizacao":"Rua Manuel Ribeiro de Pavia",
@@ -988,6 +1064,7 @@
         "autoria_extra":null
     },
     {
+        "id":77,
         "name":"Gustave Eiffel",
         "autoria":"2CarryOn e MAMB",
         "localizacao":"Rua Luís de Camões, 4 e 6",
@@ -1001,6 +1078,7 @@
         "autoria_extra":null
     },
     {
+        "id":78,
         "name":"Sem título",
         "autoria":"APAURB",
         "localizacao":"Rua Gonçalves Ramos",
@@ -1014,6 +1092,7 @@
         "autoria_extra":null
     },
     {
+        "id":79,
         "name":"Sem título",
         "autoria":"APAURB",
         "localizacao":"Rua Gonçalves Ramos",
@@ -1027,6 +1106,7 @@
         "autoria_extra":null
     },
     {
+        "id":80,
         "name":"Sem título",
         "autoria":"APAURB",
         "localizacao":"Rua Gonçalves Ramos",
@@ -1040,6 +1120,7 @@
         "autoria_extra":null
     },
     {
+        "id":81,
         "name":"Sem título",
         "autoria":"APAURB",
         "localizacao":"Rua Gonçalves Ramos",
@@ -1053,6 +1134,7 @@
         "autoria_extra":null
     },
     {
+        "id":82,
         "name":"Sem título",
         "autoria":"APAURB",
         "localizacao":"Rua Gonçalves Ramos",
@@ -1066,6 +1148,7 @@
         "autoria_extra":null
     },
     {
+        "id":83,
         "name":"Sem título",
         "autoria":"APAURB",
         "localizacao":"Rua Gonçalves Ramos",
@@ -1079,6 +1162,7 @@
         "autoria_extra":null
     },
     {
+        "id":84,
         "name":"Sem título",
         "autoria":"APAURB",
         "localizacao":"Rua Gonçalves Ramos",
@@ -1092,6 +1176,7 @@
         "autoria_extra":null
     },
     {
+        "id":85,
         "name":"Sem título",
         "autoria":"APAURB",
         "localizacao":"Rua Gonçalves Ramos",
@@ -1105,6 +1190,7 @@
         "autoria_extra":null
     },
     {
+        "id":86,
         "name":"Sem título",
         "autoria":"APAURB",
         "localizacao":"Rua Gonçalves Ramos",
@@ -1118,6 +1204,7 @@
         "autoria_extra":null
     },
     {
+        "id":87,
         "name":"Sem título",
         "autoria":"APAURB",
         "localizacao":"Rua Gonçalves Ramos",
@@ -1131,6 +1218,7 @@
         "autoria_extra":null
     },
     {
+        "id":88,
         "name":"Sem título",
         "autoria":"APAURB",
         "localizacao":"Rua Gonçalves Ramos",
@@ -1144,6 +1232,7 @@
         "autoria_extra":null
     },
     {
+        "id":89,
         "name":"Sem título",
         "autoria":"APAURB",
         "localizacao":"Rua Dona Filipa de Lencastre",
@@ -1157,6 +1246,7 @@
         "autoria_extra":null
     },
     {
+        "id":90,
         "name":"Sem título",
         "autoria":"APAURB",
         "localizacao":"Estrada Velha de Queluz",
@@ -1170,6 +1260,7 @@
         "autoria_extra":null
     },
     {
+        "id":91,
         "name":"Sem título",
         "autoria":"APAURB",
         "localizacao":"Estrada Velha de Queluz",
@@ -1183,6 +1274,7 @@
         "autoria_extra":null
     },
     {
+        "id":92,
         "name":"Sem título",
         "autoria":"APAURB",
         "localizacao":"Estrada Velha de Queluz",
@@ -1196,6 +1288,7 @@
         "autoria_extra":null
     },
     {
+        "id":93,
         "name":"Sem título",
         "autoria":"APAURB",
         "localizacao":"Estrada Velha de Queluz",
@@ -1209,6 +1302,7 @@
         "autoria_extra":null
     },
     {
+        "id":94,
         "name":"Sem título",
         "autoria":"APAURB",
         "localizacao":"Estrada Velha de Queluz",
@@ -1222,6 +1316,7 @@
         "autoria_extra":null
     },
     {
+        "id":95,
         "name":"Sem título",
         "autoria":"APAURB",
         "localizacao":"Estrada Velha de Queluz",
@@ -1235,6 +1330,7 @@
         "autoria_extra":null
     },
     {
+        "id":96,
         "name":"Amália Rodrigues",
         "autoria":"Odeith",
         "localizacao":"Rua Carlos Duarte Caneças",
@@ -1248,6 +1344,7 @@
         "autoria_extra":null
     },
     {
+        "id":97,
         "name":"Zeca Afonso",
         "autoria":"Odeith",
         "localizacao":"Rua António Duarte Caneças",
@@ -1261,6 +1358,7 @@
         "autoria_extra":null
     },
     {
+        "id":98,
         "name":"Sem título",
         "autoria":"Hugo Lucas",
         "localizacao":"Avenida Conde de Oeiras",
@@ -1274,6 +1372,7 @@
         "autoria_extra":null
     },
     {
+        "id":99,
         "name":"Sem título",
         "autoria":"Gonçalo Ribeiro (MAR)",
         "localizacao":"Avenida Santos Matos",
@@ -1287,6 +1386,7 @@
         "autoria_extra":null
     },
     {
+        "id":100,
         "name":"Sem título",
         "autoria":"Sara Morais",
         "localizacao":"Avenida Santos Matos",
@@ -1300,6 +1400,7 @@
         "autoria_extra":null
     },
     {
+        "id":101,
         "name":"Stage Fright",
         "autoria":"Regg Salgado",
         "localizacao":"Avenida Santos Matos",
@@ -1313,6 +1414,7 @@
         "autoria_extra":null
     },
     {
+        "id":102,
         "name":"Sem título",
         "autoria":"Ana Dias",
         "localizacao":"Praceta 1º de Dezembro",
@@ -1326,6 +1428,7 @@
         "autoria_extra":null
     },
     {
+        "id":103,
         "name":"Sem título",
         "autoria":"Elsa Poderosa",
         "localizacao":"Praceta 1º de Dezembro",
@@ -1339,6 +1442,7 @@
         "autoria_extra":null
     },
     {
+        "id":104,
         "name":"Sem título",
         "autoria":"Nuno Alecrim",
         "localizacao":"Avenida Conde Castro Guimarães",
@@ -1352,6 +1456,7 @@
         "autoria_extra":null
     },
     {
+        "id":105,
         "name":"Sem título",
         "autoria":"Kruella d’Enfer",
         "localizacao":"Rua Elias Garcia",
@@ -1365,6 +1470,7 @@
         "autoria_extra":null
     },
     {
+        "id":106,
         "name":"Sem título",
         "autoria":"Estúdio Altura",
         "localizacao":"Rua Theys Willemse",
@@ -1378,6 +1484,7 @@
         "autoria_extra":null
     },
     {
+        "id":107,
         "name":"Sem título",
         "autoria":"Draw & Contra",
         "localizacao":"Estrada da Serra da Mira",
@@ -1391,6 +1498,7 @@
         "autoria_extra":null
     },
     {
+        "id":108,
         "name":"Sem título",
         "autoria":"Ana Dias & Nuno Alecrim",
         "localizacao":"Calçada da Azenha",
@@ -1404,6 +1512,7 @@
         "autoria_extra":null
     },
     {
+        "id":109,
         "name":"Sem título",
         "autoria":"Odeith",
         "localizacao":"Rua Manuel Ribeiro de Pavia",
@@ -1417,6 +1526,7 @@
         "autoria_extra":null
     },
     {
+        "id":110,
         "name":"Sem título",
         "autoria":"Add Fuel",
         "localizacao":"Praceta 1º de Dezembro",
