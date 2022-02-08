@@ -11,3 +11,4 @@
 - `pipenv install pandas openpyxl jupyterlab`.
 - `pipenv install --dev 'black[jupyter]' isort`.
 - `pipenv run isort formatter.py`.
+- `git diff --stat src/data.json`.
