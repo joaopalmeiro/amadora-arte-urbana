@@ -10,6 +10,7 @@ openpyxl = "*"
 pandasgui = "*"
 pyjanitor = "*"
 bamboolib = "*"
+mitoinstaller = "*"
 
 [dev-packages]
 black = {extras = ["jupyter"], version = "*"}
