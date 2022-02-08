@@ -9,6 +9,7 @@ jupyterlab = "*"
 openpyxl = "*"
 pandasgui = "*"
 pyjanitor = "*"
+bamboolib = "*"
 
 [dev-packages]
 black = {extras = ["jupyter"], version = "*"}

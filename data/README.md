@@ -12,3 +12,4 @@
 - `pipenv install --dev 'black[jupyter]' isort`.
 - `pipenv run isort formatter.py`.
 - `git diff --stat src/data.json`.
+- `pipenv install bamboolib` + `pipenv run python -m bamboolib install_labextensions`.
