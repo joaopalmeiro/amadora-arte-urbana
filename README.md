@@ -2,7 +2,7 @@
 
 ## References
 
-- [Arte Urbana](https://dados.gov.pt/pt/datasets/arte-urbana-1/) dataset by Câmara Municipal da Amadora.
+- [Arte Urbana](https://dados.gov.pt/pt/datasets/arte-urbana-1/) dataset by Câmara Municipal da Amadora. Special thanks to [Fernando Ferreira](https://dados.gov.pt/pt/users/fernando-ferreira/) for responding to my comments and updating the dataset!
 - [Quotation mark](https://en.wikipedia.org/wiki/Quotation_mark#Summary_table) Wikipedia page.
 
 ## Development
