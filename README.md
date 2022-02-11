@@ -30,3 +30,6 @@
 - [PDM](https://pdm.fming.dev/) (Python package manager).
 - [29.º Amadora BD](https://www.cm-amadora.pt/eventos.html?view=event&itid=726).
 - trompe-l'œil or trompe l'oeil.
+- React Spectrum:
+  - `pnpm install @adobe/react-spectrum`.
+  - Breakpoints are named following T-shirt sizing. They are mobile first.
