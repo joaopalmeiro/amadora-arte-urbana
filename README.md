@@ -33,3 +33,6 @@
 - React Spectrum:
   - `pnpm install @adobe/react-spectrum`.
   - Breakpoints are named following T-shirt sizing. They are mobile first.
+  - [Available style props](https://react-spectrum.adobe.com/react-spectrum/styling.html#style-props). [Sizes](https://react-spectrum.adobe.com/react-spectrum/styling.html#dimension-values).
+  - The `<View />` component is like a `<div>`, `<span>`, or `<Box />` component (depending on the `elementType` prop).
+  - `UNSAFE_className` and `UNSAFE_style` props.
