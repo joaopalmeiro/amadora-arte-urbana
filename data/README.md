@@ -4,10 +4,11 @@
 
 - `pipenv install --python 3.8 --dev`.
 - `pipenv run jupyter lab`.
-- `pipenv run black prep.ipynb`.
+- `pipenv run black prep2.ipynb`.
 
 ## Notes
 
+- `pipenv run black get_images.py` and `pipenv run python get_images.py`.
 - `pipenv install pandas openpyxl jupyterlab`.
 - `pipenv install --dev 'black[jupyter]' isort`.
 - `pipenv run isort formatter.py`.
