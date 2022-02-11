@@ -8,6 +8,9 @@
 - [Graffiti](http://www.portaldalinguaportuguesa.org/index.php?action=lemma&lemma=125140) in Portal da Língua Portuguesa.
 - [Amadora City brand](https://www.behance.net/gallery/25301943/Amadora-City-brand) by GBNT agency.
 - [CMA logo](https://www.amadorabd.com/assets/images/footer/amadora.svg).
+- [Kruella D'Enfer's website](http://www.kruelladenfer.com/Water-the-conductor-of-Life).
+- [A datação das décadas e dos séculos](https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/a-datacao-das-decadas-e-dos-seculos/11883) in Ciberdúvidas da Língua Portuguesa.
+- [Trompe-l'œil](https://en.wikipedia.org/wiki/Trompe-l%27%C5%93il) Wikipedia page.
 
 ## Development
 
@@ -26,3 +29,4 @@
 - [FLiP On-line](https://www.flip.pt/FLiP-On-line/Corrector-ortografico-e-sintactico).
 - [PDM](https://pdm.fming.dev/) (Python package manager).
 - [29.º Amadora BD](https://www.cm-amadora.pt/eventos.html?view=event&itid=726).
+- trompe-l'œil or trompe l'oeil.
