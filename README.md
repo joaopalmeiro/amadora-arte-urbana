@@ -30,9 +30,10 @@
 - [PDM](https://pdm.fming.dev/) (Python package manager).
 - [29.º Amadora BD](https://www.cm-amadora.pt/eventos.html?view=event&itid=726).
 - trompe-l'œil or trompe l'oeil.
-- React Spectrum:
+- Spectrum and React Spectrum:
   - `pnpm install @adobe/react-spectrum`.
   - Breakpoints are named following T-shirt sizing. They are mobile first.
   - [Available style props](https://react-spectrum.adobe.com/react-spectrum/styling.html#style-props). [Sizes](https://react-spectrum.adobe.com/react-spectrum/styling.html#dimension-values).
   - The `<View />` component is like a `<div>`, `<span>`, or `<Box />` component (depending on the `elementType` prop).
   - `UNSAFE_className` and `UNSAFE_style` props.
+  - [Color for data visualization](https://spectrum.adobe.com/page/color-for-data-visualization/).
