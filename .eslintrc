@@ -1,3 +1,13 @@
 {
-    "extends": "@joaopalmeiro/eslint-config-react"
+    "extends": "@joaopalmeiro/eslint-config-react",
+    "rules": {
+        "no-shadow": [
+            "error",
+            {
+                "builtinGlobals": true,
+                "hoist": "all",
+                "allow": ["Text"]
+            }
+        ]
+    }
 }

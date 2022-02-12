@@ -37,3 +37,4 @@
   - The `<View />` component is like a `<div>`, `<span>`, or `<Box />` component (depending on the `elementType` prop).
   - `UNSAFE_className` and `UNSAFE_style` props.
   - [Color for data visualization](https://spectrum.adobe.com/page/color-for-data-visualization/).
+- `pnpm install @theme-ui/presets`.

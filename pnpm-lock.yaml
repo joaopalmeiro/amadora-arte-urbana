@@ -4,6 +4,7 @@ specifiers:
   '@adobe/react-spectrum': ^3.15.1
   '@joaopalmeiro/eslint-config-react': ^0.1.0
   '@joaopalmeiro/prettier-config': ^0.1.1
+  '@spectrum-icons/workflow': ^3.2.1
   '@vitejs/plugin-react': ^1.0.7
   eslint: ^8.8.0
   eslint-config-prettier: ^8.3.0
@@ -19,6 +20,7 @@ specifiers:
 
 dependencies:
   '@adobe/react-spectrum': 3.15.1_react-dom@17.0.2+react@17.0.2
+  '@spectrum-icons/workflow': 3.2.1_react-dom@17.0.2+react@17.0.2
   react: 17.0.2
   react-dom: 17.0.2_react@17.0.2
 
@@ -1331,6 +1333,19 @@ packages:
       react: 17.0.2
     dev: false
 
+  /@react-spectrum/icon/3.3.2_react@17.0.2:
+    resolution: {integrity: sha512-wDHt4P8wKL31GRq06FjWpH7JVzbyjUUOUt9LRXZwQ7/gA9FPc9N9vGN7xQILAOojs2CVx7JViOQMHh3EQPiOPQ==}
+    peerDependencies:
+      '@react-spectrum/provider': ^3.0.0
+      react: ^16.8.0 || ^17.0.0-rc.1
+    dependencies:
+      '@babel/runtime': 7.17.0
+      '@react-aria/utils': 3.11.0_react@17.0.2
+      '@react-spectrum/utils': 3.6.3_react@17.0.2
+      '@react-types/shared': 3.10.1_react@17.0.2
+      react: 17.0.2
+    dev: false
+
   /@react-spectrum/illustratedmessage/3.1.4_51beb66b9cb11ba59e520dda87ac78ac:
     resolution: {integrity: sha512-HI2uHcm/NaJpzJgZmFX+Sv663suwDlZb+qJ4mMWNeeQoZxz06CqezCTw7ZJ7YWVMx3UoI4/Smp4tPcCe6/Z73A==}
     peerDependencies:
@@ -2553,6 +2568,19 @@ packages:
       '@adobe/react-spectrum-workflow': 1.0.2_react-dom@17.0.2+react@17.0.2
       '@react-spectrum/icon': 3.3.2_51beb66b9cb11ba59e520dda87ac78ac
       '@react-spectrum/provider': 3.2.2_react-dom@17.0.2+react@17.0.2
+      react: 17.0.2
+    transitivePeerDependencies:
+      - react-dom
+    dev: false
+
+  /@spectrum-icons/workflow/3.2.1_react-dom@17.0.2+react@17.0.2:
+    resolution: {integrity: sha512-G6tVhEvtVjbmIIvCQnjM7eoyEZwvVc5lITliA4Us75u1zPVtTM54CSIpbKESmnksG9c0bBKeOTQ1Uv8gnWiraQ==}
+    peerDependencies:
+      '@react-spectrum/provider': ^3.0.0
+      react: ^16.8.0 || ^17.0.0-rc.1
+    dependencies:
+      '@adobe/react-spectrum-workflow': 1.0.2_react-dom@17.0.2+react@17.0.2
+      '@react-spectrum/icon': 3.3.2_react@17.0.2
       react: 17.0.2
     transitivePeerDependencies:
       - react-dom
