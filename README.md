@@ -39,3 +39,6 @@
   - [Color for data visualization](https://spectrum.adobe.com/page/color-for-data-visualization/).
 - `pnpm install @theme-ui/presets`.
 - [react-cookie](https://github.com/reactivestack/cookies/tree/master/packages/react-cookie) package.
+- [Auto-Sizing Columns in CSS Grid: `auto-fill` vs `auto-fit`](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/) blog post by Sara Soueidan:
+  - "`auto-fill` FILLS the row with as many columns as it can fit."
+  - "`auto-fit` FITS the CURRENTLY AVAILABLE columns into the [available] space (...)"
