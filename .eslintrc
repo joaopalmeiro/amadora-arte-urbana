@@ -6,7 +6,7 @@
             {
                 "builtinGlobals": true,
                 "hoist": "all",
-                "allow": ["Text"]
+                "allow": ["Image", "Text"]
             }
         ]
     }
