@@ -9,6 +9,7 @@ jupyterlab = "*"
 openpyxl = "*"
 pyjanitor = "*"
 httpimport = "*"
+pillow = "*"
 
 [dev-packages]
 black = {extras = ["jupyter"], version = "*"}
