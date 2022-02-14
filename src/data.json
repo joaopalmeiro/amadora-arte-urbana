@@ -11,7 +11,9 @@
         "long":-9.2066844837,
         "lat":38.7586351451,
         "descricao_manual":"«Acho que quem gosta de graffiti acaba sempre por fazer quase o ritual todo.»\nPeça realizada no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1197
     },
     {
         "id":3,
@@ -25,7 +27,9 @@
         "long":-9.2138294099,
         "lat":38.7463966604,
         "descricao_manual":"«Era mais influenciado pelo que vivia no dia-a-dia.»\nMural localizado no Bairro da Cova da Moura, na freguesia da Damaia. Exibe uma figura mediática e vista como um exemplo na comunidade, o intérprete Bob Marley.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1985,
+        "pic_height":1479
     },
     {
         "id":30,
@@ -39,7 +43,9 @@
         "long":-9.2117803449,
         "lat":38.7455421023,
         "descricao_manual":"«A expressão graffiti vem da expressão “getting up”, que é tu levantares o teu nome, seres alguém, seres reconhecido na terra onde vives.»\nMural localizado no Bairro da Cova da Moura, na freguesia da Damaia e que presta homenagem ao jogador de futebol Eusébio.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1500
     },
     {
         "id":25,
@@ -53,7 +59,9 @@
         "long":-9.2143571897,
         "lat":38.7642137,
         "descricao_manual":"«Este é um dos meus murais preferidos. Sempre fui um frequentador do festival Amadora BD e sou muito influenciado pela banda desenhada. Este mural foi o primeiro no qual desenvolvi um estilo que ainda não tinha transportado para uma parede.»",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":800,
+        "pic_height":600
     },
     {
         "id":2,
@@ -67,7 +75,9 @@
         "long":-9.2017059367,
         "lat":38.7596568004,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1500
     },
     {
         "id":4,
@@ -81,7 +91,9 @@
         "long":-9.2168303858,
         "lat":38.7411355612,
         "descricao_manual":"Mural localizado nas traseiras da Escola Secundária D. João V, na Damaia. Este mural representa uma homenagem aos bombeiros, vítimas dos incêndios.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1153
     },
     {
         "id":27,
@@ -95,7 +107,9 @@
         "long":-9.2164366174,
         "lat":38.7411705584,
         "descricao_manual":"Mural localizado nas traseiras da Escola Secundária D. João V, na Damaia.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1440
     },
     {
         "id":26,
@@ -109,7 +123,9 @@
         "long":-9.2163161455,
         "lat":38.741171792,
         "descricao_manual":"Mural localizado nas traseiras da Escola Secundária D. João V, na Damaia. Odeith colaborou com a artista urbana argentina Milu Correch na realização deste mural.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1857,
+        "pic_height":759
     },
     {
         "id":28,
@@ -123,7 +139,9 @@
         "long":-9.2166210797,
         "lat":38.7411636962,
         "descricao_manual":"«[O graffiti] é uma manifestação e se tu vires acho que nas zonas com mais população, ou seja, onde há prédios maiores, onde há se calhar guetos é onde as pessoas se tendem a manifestar e arriscar, e isso sempre foi assim e há-de ser.»\nMural localizado nas traseiras da Escola Secundária D. João V, na Damaia.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1326
     },
     {
         "id":29,
@@ -137,7 +155,9 @@
         "long":-9.2167077804,
         "lat":38.7411592444,
         "descricao_manual":"Mural localizado nas traseiras da Escola Secundária D. João V, na Damaia.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1889,
+        "pic_height":1461
     },
     {
         "id":31,
@@ -151,7 +171,9 @@
         "long":-9.2157081125,
         "lat":38.7411419794,
         "descricao_manual":"Mural localizado nas traseiras da Escola Secundária D. João V, na Damaia.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1963,
+        "pic_height":1330
     },
     {
         "id":32,
@@ -165,7 +187,9 @@
         "long":-9.2150594426,
         "lat":38.7414222099,
         "descricao_manual":"Hall of Fame localizado nas traseiras da Escola Secundária D. João V, na Damaia.",
-        "autoria_extra":"Raps, Vespa, Sken, New, Styler, 1ma63, Creyz, Vile, Rote, Odeith, Eko e Molin"
+        "autoria_extra":"Raps, Vespa, Sken, New, Styler, 1ma63, Creyz, Vile, Rote, Odeith, Eko e Molin",
+        "pic_width":2104,
+        "pic_height":996
     },
     {
         "id":5,
@@ -179,7 +203,9 @@
         "long":-9.2116675737,
         "lat":38.7506659469,
         "descricao_manual":"Eko, membro da GVS Crew: «O meu interesse surgiu no ano de 1997, ano esse que se assistia a um grande boom da cultura hip-hop, desse boom surgem muitas crews e muitos writers. Eu fui um deles, surjo no seio de uma das crews mais antigas de Portugal, GVS, que ainda está activa, com writers espalhados por todo o mundo.»",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1600,
+        "pic_height":1200
     },
     {
         "id":7,
@@ -193,7 +219,9 @@
         "long":-9.2013729478,
         "lat":38.7596212552,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1980,
+        "pic_height":1157
     },
     {
         "id":8,
@@ -207,7 +235,9 @@
         "long":-9.2076384756,
         "lat":38.7587809785,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1500
     },
     {
         "id":9,
@@ -221,7 +251,9 @@
         "long":-9.2073858923,
         "lat":38.7587753556,
         "descricao_manual":"«Comecei a pintar em 1989. Para mim o Graffiti é estares artilhado de formas, de contextos para poderes singrar na vida.»",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1500,
+        "pic_height":2000
     },
     {
         "id":10,
@@ -235,7 +267,9 @@
         "long":-9.2074690259,
         "lat":38.7587778343,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1500
     },
     {
         "id":11,
@@ -249,7 +283,9 @@
         "long":-9.2072377079,
         "lat":38.7587518381,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1500
     },
     {
         "id":6,
@@ -263,7 +299,9 @@
         "long":-9.2112686659,
         "lat":38.7505197106,
         "descricao_manual":"«O meu interesse pelo Graffiti surgiu porque os meus primos ouviam rap, desenhavam nas calças de ganga e eu imitava. Depois segui para as paredes.»\nMural realizado e que presta homenagem ao artista urbano Broke.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1784,
+        "pic_height":1365
     },
     {
         "id":33,
@@ -277,7 +315,9 @@
         "long":-9.2115251052,
         "lat":38.7506780168,
         "descricao_manual":"Peça realizada no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1997,
+        "pic_height":1269
     },
     {
         "id":34,
@@ -291,7 +331,9 @@
         "long":-9.2111893327,
         "lat":38.750759311,
         "descricao_manual":"Peça realizada no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1245
     },
     {
         "id":12,
@@ -305,7 +347,9 @@
         "long":-9.2068944078,
         "lat":38.7586783546,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1500,
+        "pic_height":2000
     },
     {
         "id":13,
@@ -319,7 +363,9 @@
         "long":-9.2025370861,
         "lat":38.7593555623,
         "descricao_manual":"Peça realizada no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1500
     },
     {
         "id":14,
@@ -333,7 +379,9 @@
         "long":-9.2018124299,
         "lat":38.7596186966,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1975,
+        "pic_height":1466
     },
     {
         "id":15,
@@ -347,7 +395,9 @@
         "long":-9.202011757,
         "lat":38.7595469193,
         "descricao_manual":"«Estou há 25 anos a pintar e nunca mais parei.»",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1500
     },
     {
         "id":16,
@@ -361,7 +411,9 @@
         "long":-9.2015975485,
         "lat":38.7596958943,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1997,
+        "pic_height":1496
     },
     {
         "id":17,
@@ -375,7 +427,9 @@
         "long":-9.2014472832,
         "lat":38.7597519452,
         "descricao_manual":"«Todos os meus registos me completam mas aquilo que me fascinou mais no graffiti foram as letras.»",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1500
     },
     {
         "id":18,
@@ -389,7 +443,9 @@
         "long":-9.2014791691,
         "lat":38.7595826587,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1966,
+        "pic_height":1453
     },
     {
         "id":19,
@@ -403,7 +459,9 @@
         "long":-9.2016121308,
         "lat":38.7595342965,
         "descricao_manual":"«Nos anos 70 e 80, nos Estados Unidos e na Europa, não havia essa história de seres um especialista como hoje em dia. Tanto faziam só tags como à noite pintavam um comboio magnífico.»",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1500
     },
     {
         "id":20,
@@ -417,7 +475,9 @@
         "long":-9.2017470262,
         "lat":38.7594852408,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1807,
+        "pic_height":1144
     },
     {
         "id":21,
@@ -431,7 +491,9 @@
         "long":-9.2019078844,
         "lat":38.7594267416,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1987,
+        "pic_height":1482
     },
     {
         "id":22,
@@ -445,7 +507,9 @@
         "long":-9.202127911,
         "lat":38.7593467128,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1493,
+        "pic_height":1994
     },
     {
         "id":23,
@@ -459,7 +523,9 @@
         "long":-9.2079111329,
         "lat":38.758794181,
         "descricao_manual":"Peça realizada no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1500,
+        "pic_height":2000
     },
     {
         "id":24,
@@ -473,7 +539,9 @@
         "long":-9.2078394354,
         "lat":38.7587894536,
         "descricao_manual":"Peça realizada no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1500
     },
     {
         "id":35,
@@ -487,7 +555,9 @@
         "long":-9.2023605924,
         "lat":38.759262091,
         "descricao_manual":"«Acho que [a Arte] é um acto de exteriorização de sentimentos, de ideias, de mil e uma coisas.»\nPeça realizada no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1985,
+        "pic_height":1479
     },
     {
         "id":36,
@@ -501,7 +571,9 @@
         "long":-9.211841911,
         "lat":38.7506511686,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1275
     },
     {
         "id":37,
@@ -515,7 +587,9 @@
         "long":-9.2116855458,
         "lat":38.7505194675,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1500
     },
     {
         "id":38,
@@ -529,7 +603,9 @@
         "long":-9.2115490057,
         "lat":38.7505310414,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1874,
+        "pic_height":919
     },
     {
         "id":39,
@@ -543,7 +619,9 @@
         "long":-9.2111355806,
         "lat":38.7508122141,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1500
     },
     {
         "id":40,
@@ -557,7 +635,9 @@
         "long":-9.2110094626,
         "lat":38.7510242406,
         "descricao_manual":"Peça realizada no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1500
     },
     {
         "id":41,
@@ -571,7 +651,9 @@
         "long":-9.2109840924,
         "lat":38.7510919339,
         "descricao_manual":"Mural localizado no sub-balanço Falagueira-Venda-Nova da IC17\/CRIL.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1933,
+        "pic_height":840
     },
     {
         "id":42,
@@ -585,7 +667,9 @@
         "long":-9.2110391108,
         "lat":38.7509534092,
         "descricao_manual":"Peça realizada no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1188
     },
     {
         "id":43,
@@ -599,7 +683,9 @@
         "long":-9.2109510684,
         "lat":38.751178479,
         "descricao_manual":"Peça realizada no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1354
     },
     {
         "id":44,
@@ -613,7 +699,9 @@
         "long":-9.21126974,
         "lat":38.7507203402,
         "descricao_manual":"Peça realizada no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1500,
+        "pic_height":2000
     },
     {
         "id":45,
@@ -627,7 +715,9 @@
         "long":-9.2190354297,
         "lat":38.7539796424,
         "descricao_manual":"Mural localizado no Parque Industrial da Venda-Nova e que apresenta a dinâmica fabril, através dos instrumentos e da linha de produção.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1000
     },
     {
         "id":46,
@@ -641,7 +731,9 @@
         "long":-9.2073122602,
         "lat":38.758772033,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":941,
+        "pic_height":750
     },
     {
         "id":47,
@@ -655,7 +747,9 @@
         "long":-9.2117618343,
         "lat":38.7562439405,
         "descricao_manual":"Eko, membro da GVS Crew: «O Graffiti é feito na rua e a sua aprendizagem é na rua.»\nMural localizado na zona velha da Venda-Nova e alusivo ao jogo Angry Games.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":3754,
+        "pic_height":1405
     },
     {
         "id":48,
@@ -669,7 +763,9 @@
         "long":-9.2115737166,
         "lat":38.7567947728,
         "descricao_manual":"Eko, membro da GVS Crew: «O Graffiti será sempre visto à margem da lei, mas para se poder julgar ou estereotipar tem que se ter conhecimento de causa.»\nMural localizado na zona velha da Venda-Nova e que apresenta um lettering a três dimensões.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2845,
+        "pic_height":1262
     },
     {
         "id":49,
@@ -683,7 +779,9 @@
         "long":-9.2117255184,
         "lat":38.7565574402,
         "descricao_manual":"Mural localizado na zona velha da Venda-Nova.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1927,
+        "pic_height":1312
     },
     {
         "id":50,
@@ -697,7 +795,9 @@
         "long":-9.2117381019,
         "lat":38.7564556622,
         "descricao_manual":"Mural localizado na zona velha da Venda-Nova.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1500
     },
     {
         "id":51,
@@ -711,7 +811,9 @@
         "long":-9.2113558564,
         "lat":38.7570221305,
         "descricao_manual":"Mural localizado na zona velha da Venda-Nova.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1500
     },
     {
         "id":52,
@@ -725,7 +827,9 @@
         "long":-9.2110741318,
         "lat":38.7508910585,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":952,
+        "pic_height":1500
     },
     {
         "id":53,
@@ -739,7 +843,9 @@
         "long":-9.2080403279,
         "lat":38.7588064774,
         "descricao_manual":"Peça realizada no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1500
     },
     {
         "id":54,
@@ -753,7 +859,9 @@
         "long":-9.211233835,
         "lat":38.7507300305,
         "descricao_manual":"Peça realizada no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":799,
+        "pic_height":1699
     },
     {
         "id":55,
@@ -767,7 +875,9 @@
         "long":-9.2109127788,
         "lat":38.7512736301,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1877,
+        "pic_height":1247
     },
     {
         "id":56,
@@ -781,7 +891,9 @@
         "long":-9.2069145511,
         "lat":38.7593269458,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1500,
+        "pic_height":2000
     },
     {
         "id":57,
@@ -795,7 +907,9 @@
         "long":-9.2018283249,
         "lat":38.7594556725,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1965,
+        "pic_height":1453
     },
     {
         "id":58,
@@ -809,7 +923,9 @@
         "long":-9.2016747556,
         "lat":38.7595115287,
         "descricao_manual":"Peça realizada no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1500,
+        "pic_height":2000
     },
     {
         "id":59,
@@ -823,7 +939,9 @@
         "long":-9.2020268858,
         "lat":38.7593834608,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1967,
+        "pic_height":1454
     },
     {
         "id":60,
@@ -837,7 +955,9 @@
         "long":-9.2022951711,
         "lat":38.7594435838,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1937,
+        "pic_height":1235
     },
     {
         "id":61,
@@ -851,7 +971,9 @@
         "long":-9.2021436731,
         "lat":38.7594986741,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1500
     },
     {
         "id":62,
@@ -865,7 +987,9 @@
         "long":-9.2019124209,
         "lat":38.7595827779,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2000,
+        "pic_height":1500
     },
     {
         "id":63,
@@ -879,7 +1003,9 @@
         "long":-9.2015429954,
         "lat":38.7595594477,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1458,
+        "pic_height":1045
     },
     {
         "id":64,
@@ -893,7 +1019,9 @@
         "long":-9.2072550173,
         "lat":38.7593761794,
         "descricao_manual":"Mural realizado no âmbito do Concurso de Pintura de Murais sobre Banda Desenhada, promovido pelas Estradas de Portugal e em parceria com a Câmara Municipal da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1393,
+        "pic_height":1264
     },
     {
         "id":65,
@@ -907,7 +1035,9 @@
         "long":-9.2159618095,
         "lat":38.7411728772,
         "descricao_manual":"Mural de tributo a Amália Rodrigues, localizado na Rua Dr. Francisco Sousa Tavares, na Damaia.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":66,
@@ -921,7 +1051,9 @@
         "long":-9.2150501184,
         "lat":38.7413043211,
         "descricao_manual":"Mural de tributo a H. R. Giger, localizado nas traseiras da Escola Secundária D. João V, na Damaia.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2307,
+        "pic_height":908
     },
     {
         "id":67,
@@ -935,7 +1067,9 @@
         "long":-9.232543432,
         "lat":38.774177438,
         "descricao_manual":"Mural realizado no âmbito das comemorações do 25 de Abril e que tem como suporte um camião do lixo. Este veículo desloca-se periodicamente pela cidade a fim de realizar a recolha de resíduos.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":623,
+        "pic_height":412
     },
     {
         "id":68,
@@ -949,7 +1083,9 @@
         "long":-9.233874295,
         "lat":38.7524154938,
         "descricao_manual":"Mural realizado no âmbito das comemorações do 25 de Abril.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2165,
+        "pic_height":968
     },
     {
         "id":69,
@@ -963,7 +1099,9 @@
         "long":-9.2196641591,
         "lat":38.755466559,
         "descricao_manual":"Mural realizado no âmbito da 1.ª edição do projecto “Conversas na Rua”, inserido no workshop “Pinta na Rua”, que contou com a colaboração de 8 alunos da Escola Profissional Gustave Eiffel.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":3329,
+        "pic_height":1471
     },
     {
         "id":70,
@@ -977,7 +1115,9 @@
         "long":-9.2273796195,
         "lat":38.7669938547,
         "descricao_manual":"Mural de graffiti da autoria das crews VFM e GVS.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2455,
+        "pic_height":1296
     },
     {
         "id":71,
@@ -991,7 +1131,9 @@
         "long":-9.2274755417,
         "lat":38.7669734547,
         "descricao_manual":"Mural de graffiti da autoria dos artistas Rote, Dzer, Eko e da crew MLK.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":72,
@@ -1005,7 +1147,9 @@
         "long":-9.2275830089,
         "lat":38.7669496046,
         "descricao_manual":"Mural de graffiti da autoria do artista Eko e das crews MDK e FMK.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":73,
@@ -1019,7 +1163,9 @@
         "long":-9.2202082759,
         "lat":38.7581528241,
         "descricao_manual":"Mural com a representação de Carlos Paredes e a sua inseparável guitarra portuguesa.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":782,
+        "pic_height":580
     },
     {
         "id":74,
@@ -1033,7 +1179,9 @@
         "long":-9.2340894041,
         "lat":38.7570769785,
         "descricao_manual":"A intervenção no edifício do Centro de Saúde da Amadora insere-se no programa de requalificação urbana promovido pela Câmara Municipal da Amadora e consistiu na aplicação de uma imagem construída a partir do cartaz da autoria de Ricardo Cabral para a edição de 2014 do Festival Internacional de Banda Desenhada da Amadora - Amadora BD.",
-        "autoria_extra":"Slap, Uber, Kurtz, Ephan e Dome"
+        "autoria_extra":"Slap, Uber, Kurtz, Ephan e Dome",
+        "pic_width":499,
+        "pic_height":648
     },
     {
         "id":75,
@@ -1047,7 +1195,9 @@
         "long":-9.2425468035,
         "lat":38.7576866537,
         "descricao_manual":"Mural inspirado na obra do ilustrador português Roque Gameiro e do artista plástico Bordallo Pinheiro. Esta intervenção resultou do workshop “Pinta na Rua” no âmbito da 1.ª edição do projecto “Conversas na Rua”.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2035,
+        "pic_height":1030
     },
     {
         "id":76,
@@ -1061,7 +1211,9 @@
         "long":-9.2179217772,
         "lat":38.7562010966,
         "descricao_manual":"Mural realizado no âmbito da 1.ª edição do projecto “Conversas na Rua” subentendido às temáticas da multiculturalidade e da interculturalidade.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2533,
+        "pic_height":827
     },
     {
         "id":77,
@@ -1075,7 +1227,9 @@
         "long":-9.2358595235,
         "lat":38.7569097164,
         "descricao_manual":"Esta pintura mural representa um tributo a Alexandre Gustave Eiffel, que se notabilizou pela construção de grandes infraestruturas históricas, como é o caso da Torre Eiffel, em Paris, e da Ponte D. Maria, no Porto. O nome da Escola pretende homenagear o contributo do engenheiro francês nas artes, nas ciências e na tecnologia, elementos também presentes na pintura mural.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1759,
+        "pic_height":659
     },
     {
         "id":78,
@@ -1089,7 +1243,9 @@
         "long":-9.2357529647,
         "lat":38.7563186053,
         "descricao_manual":"Mural alusivo ao 15.º Festival Internacional da Banda Desenhada da Amadora, em 2004. Desenho de André Carrilho.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":79,
@@ -1103,7 +1259,9 @@
         "long":-9.2364136645,
         "lat":38.7560437856,
         "descricao_manual":"Mural alusivo ao 13.º Festival Internacional da Banda Desenhada da Amadora, em 2002. Desenho de Pedro Brito.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":80,
@@ -1117,7 +1275,9 @@
         "long":-9.2365341072,
         "lat":38.7559942318,
         "descricao_manual":"Mural alusivo ao 20.º Festival Internacional da Banda Desenhada da Amadora, em 2009. Desenho de Rui Lacas.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2592,
+        "pic_height":1944
     },
     {
         "id":81,
@@ -1131,7 +1291,9 @@
         "long":-9.2366651836,
         "lat":38.7559397313,
         "descricao_manual":"Mural alusivo ao 20.º Festival Internacional da Banda Desenhada da Amadora, em 2009. Desenho de Rui Lacas.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":82,
@@ -1145,7 +1307,9 @@
         "long":-9.2370186559,
         "lat":38.7557950074,
         "descricao_manual":"Mural alusivo ao 20.º Festival Internacional da Banda Desenhada da Amadora, em 2009. Desenho de Rui Lacas.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1087,
+        "pic_height":233
     },
     {
         "id":83,
@@ -1159,7 +1323,9 @@
         "long":-9.2374725972,
         "lat":38.7556238591,
         "descricao_manual":"Mural alusivo ao 19.º Festival Internacional da Banda Desenhada da Amadora, em 2008. Desenho de Luís Henriques.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":84,
@@ -1173,7 +1339,9 @@
         "long":-9.2378395512,
         "lat":38.7555330158,
         "descricao_manual":"Mural alusivo ao 20.º Festival Internacional da Banda Desenhada da Amadora, em 2009. Desenho de Rui Lacas.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":85,
@@ -1187,7 +1355,9 @@
         "long":-9.239543027,
         "lat":38.7554215996,
         "descricao_manual":"Mural alusivo ao 20.º Festival Internacional da Banda Desenhada da Amadora, em 2009. Desenho de Rui Lacas.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":86,
@@ -1201,7 +1371,9 @@
         "long":-9.2397256216,
         "lat":38.7554174748,
         "descricao_manual":"Mural alusivo ao 20.º Festival Internacional da Banda Desenhada da Amadora, em 2009. Desenho de Rui Lacas.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":87,
@@ -1215,7 +1387,9 @@
         "long":-9.2397716275,
         "lat":38.7554906056,
         "descricao_manual":"Mural alusivo ao 12.º Festival Internacional da Banda Desenhada da Amadora, em 2001. Desenho de Luís Henriques.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":88,
@@ -1229,7 +1403,9 @@
         "long":-9.2403955749,
         "lat":38.75540132,
         "descricao_manual":"Mural alusivo ao 20.º Festival Internacional da Banda Desenhada da Amadora, em 2009. Desenho de Rui Lacas.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":89,
@@ -1243,7 +1419,9 @@
         "long":-9.2435623123,
         "lat":38.7556472819,
         "descricao_manual":"Mural alusivo ao 16.º Festival Internacional da Banda Desenhada da Amadora, em 2005. Desenho de Ricardo Ferrand.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":0,
+        "pic_height":0
     },
     {
         "id":90,
@@ -1257,7 +1435,9 @@
         "long":-9.2449155033,
         "lat":38.7556762131,
         "descricao_manual":"Mural alusivo ao 14.º Festival Internacional da Banda Desenhada da Amadora, em 2003. Desenho de José Carlos Fernandes.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":91,
@@ -1271,7 +1451,9 @@
         "long":-9.2451750244,
         "lat":38.7557854944,
         "descricao_manual":"Mural alusivo ao 17.º Festival Internacional da Banda Desenhada da Amadora, em 2006. Desenho de Filipe Abranches.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":92,
@@ -1285,7 +1467,9 @@
         "long":-9.2454204659,
         "lat":38.7558873875,
         "descricao_manual":"Mural alusivo ao 17.º Festival Internacional da Banda Desenhada da Amadora, em 2006. Desenho de Filipe Abranches.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":93,
@@ -1299,7 +1483,9 @@
         "long":-9.245759489,
         "lat":38.756027573,
         "descricao_manual":"Mural alusivo ao 22.º Festival Internacional da Banda Desenhada da Amadora, em 2011. Desenho de Filipe Abranches.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":94,
@@ -1313,7 +1499,9 @@
         "long":-9.2461691926,
         "lat":38.7561958191,
         "descricao_manual":"Mural alusivo ao 23.º Festival Internacional da Banda Desenhada da Amadora, em 2012. Desenho de Filipe Abranches.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":95,
@@ -1327,7 +1515,9 @@
         "long":-9.2463562988,
         "lat":38.7562739269,
         "descricao_manual":"Mural alusivo ao 23.º Festival Internacional da Banda Desenhada da Amadora, em 2012. Desenho de Filipe Abranches.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":96,
@@ -1341,7 +1531,9 @@
         "long":-9.2203283699,
         "lat":38.7588503767,
         "descricao_manual":"Mural da autoria de Odeith que representa uma homenagem à fadista portuguesa Amália Rodrigues. Esta intervenção artística foi realizada no âmbito da 2.ª edição do evento “Conversas na Rua”, cujo objetivo é convidar um conjunto de artistas portugueses a intervir em suportes urbanos do concelho da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1730,
+        "pic_height":1212
     },
     {
         "id":97,
@@ -1355,7 +1547,9 @@
         "long":-9.2204990765,
         "lat":38.7583783757,
         "descricao_manual":"Mural da autoria de Odeith que presta homenagem ao músico e compositor português José Afonso. Esta intervenção artística foi realizada no âmbito da 2.ª edição do evento “Conversas na Rua”, cujo objetivo é convidar um conjunto de artistas portugueses a intervir em suportes urbanos do concelho da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":98,
@@ -1369,7 +1563,9 @@
         "long":-9.2330873891,
         "lat":38.7525125386,
         "descricao_manual":"Mural da autoria de Hugo Lucas alusivo ao tema da banda desenhada. Esta intervenção artística foi realizada no âmbito da 2.ª edição do evento “Conversas na Rua”, cujo objetivo é convidar um conjunto de artistas portugueses a intervir em suportes urbanos do concelho da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":99,
@@ -1383,7 +1579,9 @@
         "long":-9.2348977777,
         "lat":38.7583803866,
         "descricao_manual":"Mural da autoria de MAR alusivo à temática da dança contemporânea e, especificamente, ao grupo Quorum Ballet. O artista inspirou-se, igualmente, nos estudos de anatomia de Leonardo da Vinci. Esta intervenção artística foi realizada no âmbito da 2.ª edição do evento “Conversas na Rua”, cujo objetivo é convidar um conjunto de artistas portugueses a intervir em suportes urbanos do concelho da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1547,
+        "pic_height":1354
     },
     {
         "id":100,
@@ -1397,7 +1595,9 @@
         "long":-9.2348232753,
         "lat":38.7587095659,
         "descricao_manual":"Mural da autoria de Sara Morais, cuja representação remete para o movimento de uma bailarina de dança contemporânea do grupo Quorum Ballet. Esta intervenção artística foi realizada no âmbito da 2.ª edição do evento “Conversas na Rua”, cujo objetivo é convidar um conjunto de artistas portugueses a intervir em suportes urbanos do concelho da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1805,
+        "pic_height":1161
     },
     {
         "id":101,
@@ -1411,7 +1611,9 @@
         "long":-9.2347785951,
         "lat":38.7585653495,
         "descricao_manual":"Mural da autoria de Regg Salgado alusivo à temática do teatro e da dança contemporânea com a representação de uma dançarina do grupo Quorum Ballet. Esta intervenção artística foi realizada no âmbito da 2.ª edição do evento “Conversas na Rua”, cujo objetivo é convidar um conjunto de artistas portugueses a intervir em suportes urbanos do concelho da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1838,
+        "pic_height":587
     },
     {
         "id":102,
@@ -1425,7 +1627,9 @@
         "long":-9.2419963578,
         "lat":38.7576693311,
         "descricao_manual":"Mural da autoria da ilustradora Ana Dias que assenta em linhas de construção baseadas na planta e desenhos da Casa Roque Gameiro, assim como nos azulejos e no jardim envolvente. Esta intervenção artística realizou-se no âmbito da 2.ª edição do evento “Conversas na Rua”, cujo objetivo é convidar um conjunto de artistas portugueses a intervir em suportes urbanos do concelho da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1924,
+        "pic_height":1089
     },
     {
         "id":103,
@@ -1439,7 +1643,9 @@
         "long":-9.2419482818,
         "lat":38.7576916401,
         "descricao_manual":"Mural da autoria da ilustradora Elsa Poderosa inspirado na azulejaria que reveste a Casa Roque Gameiro, recuperando ainda elementos da planta do espaço. Esta pintura mural realizou-se no âmbito da 2.ª edição do evento “Conversas na Rua”, cujo objetivo é convidar um conjunto de artistas portugueses a intervir em suportes urbanos do concelho da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1674,
+        "pic_height":1252
     },
     {
         "id":104,
@@ -1453,7 +1659,9 @@
         "long":-9.2333706742,
         "lat":38.7525134573,
         "descricao_manual":"Intervenção artística da autoria do artista plástico Nuno Alecrim que representa um templo sagrado e que reforça a literatura como uma arte ancestral. Através de dois padrões desenvolvidos propositadamente para o espaço, o artista recupera a pena, que durante mais de dois milénios representou um importante instrumento de escrita das sociedades ditas civilizadas, e a geometria aludindo aos manuscritos ancestrais. Esta intervenção realizou-se no âmbito da 2.ª edição do evento “Conversas na Rua”, cujo objetivo é convidar um conjunto de artistas portugueses a intervir em suportes urbanos do concelho da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":105,
@@ -1467,7 +1675,9 @@
         "long":-9.2350431039,
         "lat":38.7581778911,
         "descricao_manual":"A artista visual e ilustradora propôs-se interagir com o local de acolhimento da sua intervenção plástica, incorporando elementos caracterizadores do edifício na sua proposta mural. A dança, o teatro, e a música estão representados nesta intervenção, numa atmosfera que envolve o sonho e o onírico. A artista recorreu à técnica de graffiti na criação de uma narrativa que dialogasse com as especificidades do lugar. A produção do mural inseriu-se na 3.ª edição do projecto “Conversas na Rua”, durante a qual procurou-se desenvolver intervenções artísticas urbanas por toda a cidade da Amadora, convidando os artistas a dialogar com a paisagem urbana.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1707,
+        "pic_height":1139
     },
     {
         "id":106,
@@ -1481,7 +1691,9 @@
         "long":-9.2333511558,
         "lat":38.7587578345,
         "descricao_manual":"Pedro Peixe liderou a produção da ilustração que culminou numa representação mural que procurou homenagear Almeida Garrett, o fundador da Escola de Artes Dramáticas, que, mais tarde, transitou para a cidade da Amadora, agora sob o nome de Escola Superior de Teatro e Cinema. O colectivo recorreu a uma técnica mista, entre pintura mural e graffiti, culminando numa proposta que, simbolicamente, revela a influência do teatro no cinema (com a alusão à caixa mágica e à primeira projecção cinematográfica pública pelos irmãos Lumiére), ou a contemplação da cidade e a relação com o caminho de ferro (novamente a referência aos irmãos Lumiére e à importância da estação ferroviária na cidade). A produção do mural decorreu no âmbito da 3.ª edição do projecto “Conversas na Rua”, durante a qual procurou-se desenvolver intervenções artísticas urbanas por toda a cidade da Amadora, convidando os artistas a dialogar com a paisagem urbana.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":716,
+        "pic_height":654
     },
     {
         "id":107,
@@ -1495,7 +1707,9 @@
         "long":-9.2286701813,
         "lat":38.762725292,
         "descricao_manual":"A dupla do Porto propôs-se exaltar a feminilidade através da representação de três versões de uma mulher, através da técnica da pintura mural (semelhança que poderá aludir a um tríptico). O universo que subjaz a intervenção remete para a delicadeza e subtileza da figura feminina acentuada pela presença de elementos simbólicos, como os lírios e o fundo abstracto com formas e contornos que remetem para uma envolvente idealizada ou uma dimensão divina. A produção do mural inseriu-se na 3.ª edição do projecto “Conversas na Rua”, durante a qual procurou-se desenvolver intervenções artísticas urbanas por toda a cidade da Amadora, convidando os artistas a dialogar com a paisagem urbana.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1460,
+        "pic_height":973
     },
     {
         "id":108,
@@ -1509,7 +1723,9 @@
         "long":-9.2305203052,
         "lat":38.7641935292,
         "descricao_manual":"A dupla de artistas foi desafiada a criar uma narrativa inspirada na memória histórica local, sobretudo, no seu passado rural com recurso à técnica do stencil. A linguagem figurativa e ilustrativa de Ana Dias juntou-se aos padrões geométricos e sequência caligráfica de Alecrim na criação de uma proposta mural que estabelecesse um diálogo com a envolvente. Esta intervenção artística decorreu no âmbito da 3.ª edição do projecto “Conversas na Rua”, durante a qual procurou-se desenvolver intervenções artísticas urbanas por toda a cidade da Amadora, convidando os artistas a dialogar com a paisagem urbana.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1499,
+        "pic_height":999
     },
     {
         "id":109,
@@ -1523,7 +1739,9 @@
         "long":-9.2198970229,
         "lat":38.7569943555,
         "descricao_manual":"O artista presta homenagem ao poeta português Fernando Pessoa, numa representação mural de graffiti e na qual recorre a elementos simbólicos que caracterizavam a personalidade em causa. Esta intervenção artística decorreu no âmbito da 3.ª edição do projecto “Conversas na Rua”, cujo objectivo remete para o desenvolvimento de intervenções artísticas urbanas por toda a cidade da Amadora, com o convite à participação de artistas em diálogo com a paisagem urbana.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1498,
+        "pic_height":999
     },
     {
         "id":110,
@@ -1537,7 +1755,9 @@
         "long":-9.2421271171,
         "lat":38.7577096252,
         "descricao_manual":"Intervenção artística realizada em colaboração com o grupo musical MGDRV. O artista recorreu à técnica do stencil, inspirando-se na azulejaria portuguesa. O mural presta homenagem a Luís Vaz de Camões e à sua obra homónima “Os Lusíadas”, concretamente, referindo-se à possibilidade de continuar a epopeia com um hipotético canto XI, proposto pelo grupo musical MGDRV.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":2048,
+        "pic_height":1365
     },
     {
         "id":111,
@@ -1551,7 +1771,9 @@
         "long":-9.2273845886,
         "lat":38.7578850969,
         "descricao_manual":"Este mural retrata de forma singela e até, pode dizer-se, naïve, uma criança que sorri a quem passa. Em “Carlota”, o artista volta a combinar o retrato com a pintura abstrata, num encontro de elementos, formas e contextos que compõem uma representação plural de estilos e linguagens.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1040,
+        "pic_height":650
     },
     {
         "id":112,
@@ -1565,7 +1787,9 @@
         "long":-9.2205122266,
         "lat":38.757869008,
         "descricao_manual":"Odeith dedica este a um dos seus ídolos de infância: Vasco Santana. Neste mural, o artista explora, não só, o realismo, como também a abstração e a caligrafia. Inspirado pela golden age do cinema norte-americano, o artista recorre à técnica do spray para representar Vasco Santana enquadrado por uma aura dourada, que culmina na assinatura monumental em rodapé onde pode ler-se Odeith.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1040,
+        "pic_height":650
     },
     {
         "id":113,
@@ -1579,7 +1803,9 @@
         "long":-9.2468831571,
         "lat":38.7614788659,
         "descricao_manual":"Com inspiração em Seomara da Costa Primo e nas suas ilustrações científicas, a dupla de artistas desenvolveu um mural colaborativo onde explorou o abstrato e o figurativo. Destaca-se o realismo da personalidade feminina representada e dos pássaros que, em diferentes sequências, marcam a narrativa.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1040,
+        "pic_height":650
     },
     {
         "id":114,
@@ -1593,7 +1819,9 @@
         "long":-9.2353837406,
         "lat":38.7632482089,
         "descricao_manual":"Nesta peça, o artista divide a narrativa em três atos, o primeiro sobre a origem do teatro, o segundo, um episódio de transição em que retrata a importância da música, e o terceiro, o cinema, com inspiração numa das obras máximas de Alfred Hitchcock, Os Pássaros. Este mural representa, sumariamente, a forma como o artista explora o movimento e a performatividade das suas personagens autorais.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1040,
+        "pic_height":650
     },
     {
         "id":115,
@@ -1607,7 +1835,9 @@
         "long":-9.2307781273,
         "lat":38.7607402264,
         "descricao_manual":"O artista inspirou-se na dança contemporânea para a criação deste mural em grande escala, com recurso à técnica mista, entre pintura com tinta plástica e spray. O artista incorreu na experimentação de novas texturas e formas que permitissem enquadrar a figura central, abordando a parede como se de uma tela se tratasse.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1040,
+        "pic_height":650
     },
     {
         "id":116,
@@ -1621,7 +1851,9 @@
         "long":-9.2270421371,
         "lat":38.75784112,
         "descricao_manual":"Homenagem à diversidade cultural da cidade da Amadora, através da representação de uma mulher de origem africana em grande escala, com recurso à técnica do stencil. A inclusão do número “2700” remete para o código postal da cidade, mais uma vez numa tentativa de exaltação e de celebração do lugar.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1773,
+        "pic_height":1182
     },
     {
         "id":117,
@@ -1635,7 +1867,9 @@
         "long":-9.2382570308,
         "lat":38.7560308014,
         "descricao_manual":"A artista inspirou-se numa Ofélia moderna de Shakespeare, não de uma forma efémera e trágica, mas perpétua, forte e apaixonada. Contrastando com a representação de Millais (a mais famosa pintura da Ofélia), onde as flores estão murchas, nesta obra elas surgem a desabrochar, crescem como parte da personagem. Como diz Ofélia: «Nós sabemos o que somos, mas não o que podemos vir a ser.»",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1773,
+        "pic_height":1182
     },
     {
         "id":118,
@@ -1649,7 +1883,9 @@
         "long":-9.2334395591,
         "lat":38.747769224,
         "descricao_manual":"Composição abstrata que explora a tridimensionalidade dos objetos, aludindo-se às diferentes perspectivas do olhar. Nesta obra, a borboleta representa simbolicamente a leveza. Enquanto que os auscultadores o poder da música.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1182,
+        "pic_height":1773
     },
     {
         "id":119,
@@ -1663,7 +1899,9 @@
         "long":-9.2330675352,
         "lat":38.7565289295,
         "descricao_manual":"Ilustração que remete para o passado da cidade ligado à aviação e ao seu pioneirismo, com um tributo declarado ao GEAR.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1773,
+        "pic_height":1182
     },
     {
         "id":120,
@@ -1677,7 +1915,9 @@
         "long":-9.2062679277,
         "lat":38.758587203,
         "descricao_manual":"Ilustração que representa, em simultâneo, as duas facetas da cidade da Amadora: por um lado, os vestígios de uma ruralidade anteriormente demarcada porém ainda presente, por outro, uma cidade que cresce a um ritmo célere e virada para o futuro.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1773,
+        "pic_height":1182
     },
     {
         "id":121,
@@ -1691,7 +1931,9 @@
         "long":-9.2302411093,
         "lat":38.7610782499,
         "descricao_manual":"Kruella d'Enfer refugia-se no seu universo visual encantado, onde cria personagens, mitos e cenários onde a natureza assume um lugar primordial. Este mural é inspirado no ciclo da água e na relação de proximidade do Município a este recurso natural, patente nas várias fontes e chafarizes do concelho e na existência de um troço do Aqueduto das Águas Livres que se estende por várias freguesias.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1920,
+        "pic_height":1280
     },
     {
         "id":122,
@@ -1705,7 +1947,9 @@
         "long":-9.2412948856,
         "lat":38.7631174434,
         "descricao_manual":"Natural da Damaia, Odeith, desde cedo, revelou aptidão para as artes plásticas. Em meados de 1980, toma contacto com uma lata de spray pela primeira vez e, a partir desta data, o graffiti assume-se como uma prática recorrente. Em 2020, o artista decidiu homenagear os profissionais de saúde do Hospital Amadora-Sintra, através da representação de três anjos, em que um destes personagens empunha a Covid-19 numa alegoria ao combate à pandemia.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1920,
+        "pic_height":1280
     },
     {
         "id":123,
@@ -1719,7 +1963,9 @@
         "long":-9.2103442481,
         "lat":38.7645335032,
         "descricao_manual":"No campo das artes visuais, Aka Corleone é conhecido pela destreza com que aborda o uso da cor, a tipografia, personagens e formas depuradas que combina de forma hábil, de modo a produzir composições apelativas imbuídas de originalidade e de um humor abrangente. Este mural é inspirado na banda desenhada alternativa e nos murais publicitários das décadas de 60 e 70 dos Estados Unidos.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1606,
+        "pic_height":1071
     },
     {
         "id":124,
@@ -1733,7 +1979,9 @@
         "long":-9.2027223133,
         "lat":38.7602081833,
         "descricao_manual":"Através de iconografias e símbolos, Jorge Charrua inspira-se na cultura urbana mas recorre a uma pintura tradicional para estabelecer pontos de contacto entre um presente recente e um passado distante. A representação da figura humana surge num jogo entre a melancolia e a afirmação. Este mural representa um retrato de um autor de banda desenhada no seu atelier, numa composição que reflete a introspeção e a catarse características do processo criativo dos artistas.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1920,
+        "pic_height":1280
     },
     {
         "id":125,
@@ -1747,7 +1995,9 @@
         "long":-9.2287580689,
         "lat":38.7602277327,
         "descricao_manual":"Add Fuel desenvolveu um conceito criativo relacionado com uma reinterpretação da tradição azulejar portuguesa, através dos seus padrões em stencil, com base num processo de tesselação, criam um equilíbrio entre repetições simétricas. Através de técnicas de ilusão de ótica como o trompe-l'œil, as suas composições em múltiplas camadas culminam numa poesia visual que interpela a perceção do observador e as suas possibilidades de interpretação. Este mural representa uma homenagem à multiculturalidade da cidade da Amadora com a interpretação de vários padrões relacionados com as diferentes nacionalidades presentes no concelho.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1920,
+        "pic_height":1280
     },
     {
         "id":126,
@@ -1761,7 +2011,9 @@
         "long":-9.2257377908,
         "lat":38.7579524159,
         "descricao_manual":"As peças de Mariana Santos são, sobretudo, figurativas e inspiradas nos frames de filmes e fotografias; registos do passado e, até já esquecidos, numa tentativa de recuperar e capturar uma esperança desolada a partir das imagens pungentes e antigas que a artista vê como dignas de uma nova existência. Este mural representa uma interpretação da artista da fotografia da autoria de Alfredo Cunha, da década de 70, que exibe um conjunto de idosos que, diariamente, observavam a passagem dos comboios no antigo apeadeiro da Estação da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1920,
+        "pic_height":1080
     },
     {
         "id":127,
@@ -1775,7 +2027,9 @@
         "long":-9.2144178886,
         "lat":38.7546153368,
         "descricao_manual":"Carlos Farinha realiza e produz cenografias para o Festival Amadora BD desde 1998. O seu trabalho artístico caracteriza-se por uma elevada complexidade revelada pelo detalhe com que retrata os personagens e cenários das suas histórias e reinterpretações da vivência humana. Neste mural, o artista recupera a técnica do trompe-l'œil para retratar o quotidiano nas antigas tascas e tabernas da cidade.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1920,
+        "pic_height":1279
     },
     {
         "id":128,
@@ -1789,7 +2043,9 @@
         "long":-9.204245923,
         "lat":38.7614711269,
         "descricao_manual":"A paixão pelas tintas, pela cor, pelos materiais e, também, pelos elementos que a inspiram, levaram-na à pintura, técnica que tem vindo a aperfeiçoar. Krus tem na natureza o seu tema de eleição e ao qual dedica uma vasta parte do seu universo plástico. Este mural representa um tributo ao passado rural da cidade da Amadora, com a representação de várias atividades agrícolas, nomeadamente a ceifa e o pastoreio.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1920,
+        "pic_height":1280
     },
     {
         "id":129,
@@ -1803,7 +2059,9 @@
         "long":-9.2301266769,
         "lat":38.7691609922,
         "descricao_manual":"A inspiração mitológica, por um lado, a cultura oriental, por outro, culminaram, gradualmente, numa linha gráfica que caracteriza o seu traço, quase em exclusivo, a spray. Este mural presta homenagem ao património cultural e arqueológico da cidade da Amadora, com a referência destacada ao Aqueduto das Águas Livres.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1920,
+        "pic_height":1280
     },
     {
         "id":130,
@@ -1817,7 +2075,9 @@
         "long":-9.2262889464,
         "lat":38.7585366312,
         "descricao_manual":"Neste mural, Jacqueline de Montaigne apresenta uma homenagem à Primavera e à natureza, com uma ressalva à importância da água, enquanto elemento fundamental à sobrevivência humana. O elemento água foi abordado, devido à proximidade deste local a um dos mais antigos chafarizes da cidade: Chafariz da Porcalhota.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1254,
+        "pic_height":1672
     },
     {
         "id":131,
@@ -1831,7 +2091,9 @@
         "long":-9.2333746974,
         "lat":38.7546209315,
         "descricao_manual":"O mural de Ricardo Romero apresenta uma homenagem ao aguarelista português Alfredo Roque Gameiro, devido à proximidade desta peça relativamente à Escola com o nome do pintor. Através da técnica serigráfica, Ricardo Romero fez uma reinterpretação do famoso autorretrato de Alfredo Roque Gameiro e de uma das suas mais emblemáticas aguarelas.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1254,
+        "pic_height":1672
     },
     {
         "id":132,
@@ -1845,7 +2107,9 @@
         "long":-9.2330613984,
         "lat":38.7546340052,
         "descricao_manual":"Em 2021, Odeith oferece novamente o seu contributo artístico à cidade da Amadora com um mural que apresenta uma representação de um gato, que contempla curioso um aquário com um peixe. O artista inspirou-se nas duas colónias destes animais, localizadas nas imediações da sua intervenção artística.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1254,
+        "pic_height":1672
     },
     {
         "id":133,
@@ -1859,7 +2123,9 @@
         "long":-9.2450008864,
         "lat":38.7561418857,
         "descricao_manual":"O mural deste coletivo artístico apresenta um tributo ao escritor português Mário Cesariny e a uma das suas estrofes do poema intitulado “Em todas as ruas te encontro”. Halfstudio é o pseudónimo de um grupo de artistas conhecidos pela utilização do stencil e da tipografia nos seus murais de grande escala, que interpelam o observador devido à sua tridimensionalidade e profundidade.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     },
     {
         "id":134,
@@ -1873,7 +2139,9 @@
         "long":-9.2358036235,
         "lat":38.7582036144,
         "descricao_manual":"Este mural vem na sequência da peça realizada na Rua 27 de Junho e representa um tributo do artista Thiago Gomes à expressão musical, com a representação de um homem-gato a tocar um instrumento mas, nesta caso, destacam-se os olhos penetrantes e o semblante obscuro.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1254,
+        "pic_height":1672
     },
     {
         "id":135,
@@ -1887,7 +2155,9 @@
         "long":-9.2339564789,
         "lat":38.757531078,
         "descricao_manual":"O ilustrador de nacionalidade brasileira, Thiago Gomes é conhecido pelos seus personagens híbridos, uma fusão entre os homens e os gatos. Este mural representa um desses personagens que toca um instrumento musical, cuja inspiração o artista foi retirar à proximidade deste local dos Recreios da Amadora.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1254,
+        "pic_height":1672
     },
     {
         "id":136,
@@ -1901,7 +2171,9 @@
         "long":-9.2159214949,
         "lat":38.73078178,
         "descricao_manual":"Malibu Ninjas são um coletivo artístico de Lisboa, cujos murais são inspirados na literatura e ilustração alternativa. O seu mural é inspirado no universo da banda desenhada e da cultura pop nova-iorquina, com destaque para o uso de uma paleta de cores fortes e quentes, em que sobressaem as sombras e os contornos acentuados de figuras e fisionomias disformes.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1254,
+        "pic_height":1672
     },
     {
         "id":137,
@@ -1915,6 +2187,8 @@
         "long":-9.2059357809,
         "lat":38.7608543037,
         "descricao_manual":"Esta foi a primeira incursão do ilustrador português no muralismo. Tiago Albuquerque é conhecido, maioritariamente, pela sua faceta de ilustrador de livros infantojuvenis. Este mural representa um alerta à poluição dos oceanos e dos recursos hídricos e à eminente destruição da fauna e flora marinhas, que o artista intitulou de “Plasticus Maritimus”.",
-        "autoria_extra":null
+        "autoria_extra":null,
+        "pic_width":1672,
+        "pic_height":1254
     }
 ]
