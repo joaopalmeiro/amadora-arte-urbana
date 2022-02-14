@@ -8,6 +8,15 @@
                 "hoist": "all",
                 "allow": ["Image", "Text"]
             }
+        ],
+        // https://recoiljs.org/docs/introduction/installation#eslint
+        // https://www.npmjs.com/package/eslint-plugin-react-hooks
+        // https://recoiljs.org/docs/api-reference/core/useRecoilCallback
+        "react-hooks/exhaustive-deps": [
+            "warn",
+            {
+                "additionalHooks": "(useRecoilCallback)"
+            }
         ]
     }
 }

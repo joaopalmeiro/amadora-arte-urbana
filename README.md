@@ -42,3 +42,10 @@
 - [Auto-Sizing Columns in CSS Grid: `auto-fill` vs `auto-fit`](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/) blog post by Sara Soueidan:
   - "`auto-fill` FILLS the row with as many columns as it can fit."
   - "`auto-fit` FITS the CURRENTLY AVAILABLE columns into the [available] space (...)"
+- [Recoil](https://recoiljs.org/):
+  - `pnpm install recoil`.
+  - **Atoms** are units of state to which **components** can subscribe.
+  - **Selectors** are used to compute derived data based on state.
+  - Atoms need a unique `key`.
+  - `useRecoilState()` for atoms and `useRecoilValue()` for atoms and selectors.
+- `pnpm eslint --print-config .eslintrc`.

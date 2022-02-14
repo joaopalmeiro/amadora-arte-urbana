@@ -1,4 +1,5 @@
 import { Flex, Header, Heading, lightTheme, Provider } from '@adobe/react-spectrum';
+import { RecoilRoot } from 'recoil';
 
 import MainContent from './MainContent';
 
@@ -13,17 +14,20 @@ function App() {
         // https://react-spectrum.adobe.com/react-spectrum/theming.html#how-themes-are-defined
         // https://react-spectrum.adobe.com/react-spectrum/Provider.html#props
         // https://github.com/adobe/react-spectrum/blob/%40adobe/react-spectrum%403.15.1/packages/@react-spectrum/theme-default/src/index.ts
-        <Provider colorScheme="light" theme={lightTheme}>
-            <Flex direction="column" gap="size-100">
-                <Header>
-                    <Heading level={1} marginY="size-0">
-                        Caderneta de Graffiti
-                    </Heading>
-                </Header>
+        // https://recoiljs.org/docs/introduction/getting-started#recoilroot
+        <RecoilRoot>
+            <Provider colorScheme="light" theme={lightTheme}>
+                <Flex direction="column" gap="size-100">
+                    <Header>
+                        <Heading level={1} marginY="size-0">
+                            Caderneta de Graffiti
+                        </Heading>
+                    </Header>
 
-                <MainContent />
-            </Flex>
-        </Provider>
+                    <MainContent />
+                </Flex>
+            </Provider>
+        </RecoilRoot>
     );
 }
 
