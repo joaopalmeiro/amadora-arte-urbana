@@ -49,3 +49,4 @@
   - Atoms need a unique `key`.
   - `useRecoilState()` for atoms and `useRecoilValue()` for atoms and selectors.
 - `pnpm eslint --print-config .eslintrc`.
+- [View and edit local storage](https://developer.chrome.com/docs/devtools/storage/localstorage/) (Chrome).

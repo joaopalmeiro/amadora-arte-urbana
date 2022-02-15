@@ -13,6 +13,8 @@ specifiers:
   eslint-plugin-prettier: ^4.0.0
   eslint-plugin-react: ^7.28.0
   eslint-plugin-react-hooks: ^4.3.0
+  lodash.isnull: ^3.0.0
+  lodash.samplesize: ^4.2.0
   prettier: ^2.5.1
   react: ^17.0.2
   react-dom: ^17.0.2
@@ -22,6 +24,8 @@ specifiers:
 dependencies:
   '@adobe/react-spectrum': 3.15.1_react-dom@17.0.2+react@17.0.2
   '@spectrum-icons/workflow': 3.2.1_react-dom@17.0.2+react@17.0.2
+  lodash.isnull: 3.0.0
+  lodash.samplesize: 4.2.0
   react: 17.0.2
   react-dom: 17.0.2_react@17.0.2
   recoil: 0.6.1_react-dom@17.0.2+react@17.0.2
@@ -3679,9 +3683,17 @@ packages:
       path-exists: 3.0.0
     dev: true
 
+  /lodash.isnull/3.0.0:
+    resolution: {integrity: sha1-+vvlnqHcon7teGU0A53YTC4HxW4=}
+    dev: false
+
   /lodash.merge/4.6.2:
     resolution: {integrity: sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==}
     dev: true
+
+  /lodash.samplesize/4.2.0:
+    resolution: {integrity: sha1-Rgdi+7KzQikFF0mekNUVhttGX/k=}
+    dev: false
 
   /loose-envify/1.4.0:
     resolution: {integrity: sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==}

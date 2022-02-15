@@ -1,5 +1,6 @@
 import { Button, Content, Text } from '@adobe/react-spectrum';
 import ImageAdd from '@spectrum-icons/workflow/ImageAdd';
+import sampleSize from 'lodash.samplesize';
 import { useSetRecoilState } from 'recoil';
 
 import { collectionState } from './atoms';
@@ -11,7 +12,9 @@ function MainContent() {
     const setCollection = useSetRecoilState(collectionState);
 
     // TODO
-    const handleOnPress = () => setCollection((oldCollection) => [...oldCollection, 1]);
+    // https://lodash.com/docs/4.17.15#sampleSize
+    const handleOnPress = () =>
+        setCollection((oldCollection) => [...oldCollection, ...sampleSize([1, 2, 3], 1)]);
 
     return (
         <Content>

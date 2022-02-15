@@ -9,6 +9,8 @@
     "dependencies": {
         "@adobe/react-spectrum": "^3.15.1",
         "@spectrum-icons/workflow": "^3.2.1",
+        "lodash.isnull": "^3.0.0",
+        "lodash.samplesize": "^4.2.0",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
         "recoil": "^0.6.1"

@@ -17,6 +17,9 @@
             {
                 "additionalHooks": "(useRecoilCallback)"
             }
-        ]
+        ],
+        // https://github.com/prettier/eslint-config-prettier#no-confusing-arrow
+        // https://eslint.org/docs/rules/no-confusing-arrow#options
+        "no-confusing-arrow": ["error", { "allowParens": false }]
     }
 }
