@@ -1,20 +1,21 @@
 import { Button, Content, Text } from '@adobe/react-spectrum';
 import ImageAdd from '@spectrum-icons/workflow/ImageAdd';
 import sampleSize from 'lodash.samplesize';
-import { useSetRecoilState } from 'recoil';
+import { useRecoilValue, useSetRecoilState } from 'recoil';
 
-import { collectionState } from './atoms';
-import { defaultFontFamily } from './constants';
+import { availableState, collectionState } from './atoms';
+import { defaultFontFamily, packetSize } from './constants';
 import StickerAlbum from './StickerAlbum';
 
 function MainContent() {
     // https://recoiljs.org/docs/api-reference/core/useSetRecoilState
     const setCollection = useSetRecoilState(collectionState);
+    const available = useRecoilValue(availableState);
+    // console.log('Available:', available);
 
-    // TODO
     // https://lodash.com/docs/4.17.15#sampleSize
     const handleOnPress = () =>
-        setCollection((oldCollection) => [...oldCollection, ...sampleSize([1, 2, 3], 1)]);
+        setCollection((oldCollection) => [...oldCollection, ...sampleSize(available, packetSize)]);
 
     return (
         <Content>
@@ -24,6 +25,7 @@ function MainContent() {
             <Button
                 variant="cta"
                 onPress={handleOnPress}
+                isDisabled={available.length === 0}
                 UNSAFE_style={{ fontFamily: defaultFontFamily }}
             >
                 <ImageAdd />

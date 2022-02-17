@@ -1,5 +1,9 @@
+import range from 'just-range';
+import remove from 'just-remove';
 import isNull from 'lodash.isnull';
-import { atom } from 'recoil';
+import { atom, selector } from 'recoil';
+
+import { numStickers } from './constants';
 
 // https://recoiljs.org/docs/guides/atom-effects#local-storage-persistence
 // https://recoiljs.org/docs/guides/atom-effects/
@@ -23,9 +27,21 @@ const localStorageEffect =
         });
     };
 
+const allAvailable = range(1, numStickers + 1, 1);
+
 // https://recoiljs.org/docs/basic-tutorial/atoms
 export const collectionState = atom({
     default: [],
     effects: [localStorageEffect('collection_state')],
     key: 'collectionState'
+});
+
+// https://recoiljs.org/docs/introduction/getting-started#selector
+export const availableState = selector({
+    get: ({ get }) => {
+        const collection = get(collectionState);
+
+        return remove(allAvailable, collection);
+    },
+    key: 'availableState'
 });

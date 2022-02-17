@@ -13,6 +13,8 @@ specifiers:
   eslint-plugin-prettier: ^4.0.0
   eslint-plugin-react: ^7.28.0
   eslint-plugin-react-hooks: ^4.3.0
+  just-range: ^4.0.1
+  just-remove: ^3.0.1
   lodash.isnull: ^3.0.0
   lodash.samplesize: ^4.2.0
   prettier: ^2.5.1
@@ -24,6 +26,8 @@ specifiers:
 dependencies:
   '@adobe/react-spectrum': 3.15.1_react-dom@17.0.2+react@17.0.2
   '@spectrum-icons/workflow': 3.2.1_react-dom@17.0.2+react@17.0.2
+  just-range: 4.0.1
+  just-remove: 3.0.1
   lodash.isnull: 3.0.0
   lodash.samplesize: 4.2.0
   react: 17.0.2
@@ -3656,6 +3660,14 @@ packages:
       array-includes: 3.1.4
       object.assign: 4.1.2
     dev: true
+
+  /just-range/4.0.1:
+    resolution: {integrity: sha512-95Nge5VEn5QiwASJa4QlCLUSyG0QpHwHmhFQUN0Qg5nazqWkxzbVvcEY0xr4ZqXzOlJAQK0KDCVjF0EmseHNXA==}
+    dev: false
+
+  /just-remove/3.0.1:
+    resolution: {integrity: sha512-TUn9bQgOjL+eQyvGrD0Pov0JWik6TGaQHqCSB4bPES7f5CfrS2lh+b4E37eYxEBpHvFpn2ig3fNfu3FJl5albA==}
+    dev: false
 
   /language-subtag-registry/0.3.21:
     resolution: {integrity: sha512-L0IqwlIXjilBVVYKFT37X9Ih11Um5NEl9cbJIuU/SwP/zEEAbBPOnEeeuxVMf45ydWQRDQN3Nqc96OgbH1K+Pg==}

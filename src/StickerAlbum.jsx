@@ -17,7 +17,7 @@ import ViewDetail from '@spectrum-icons/workflow/ViewDetail';
 import { useRecoilValue } from 'recoil';
 
 import { collectionState } from './atoms';
-import { defaultFontFamily } from './constants';
+import { defaultFontFamily, numStickers } from './constants';
 import data from './data.json';
 
 const gridColumnSize = 'size-4600';
@@ -28,10 +28,8 @@ const gridColumnSize = 'size-4600';
 // https://ishadeed.com/article/learn-css-centering/
 function StickerAlbum() {
     const collection = useRecoilValue(collectionState);
-    // console.log(collection);
 
-    const numStickers = data.length;
-
+    // console.log('Collection:', collection);
     // console.log(data[0].pic_width / data[0].pic_height);
     // console.log(data[0].descricao_manual);
 
