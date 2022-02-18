@@ -1,0 +1,11 @@
+.url {
+    transition: filter 150ms ease, color 200ms ease;
+    text-decoration: underline;
+    cursor: ne-resize;
+    /* color: var(--spectrum-global-color-gray-800); */
+}
+
+.url:hover {
+    filter: blur(1.5px);
+    color: var(--spectrum-global-color-gray-600);
+}

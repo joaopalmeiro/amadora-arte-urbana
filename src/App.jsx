@@ -2,6 +2,7 @@ import { Flex, Header, Heading, lightTheme, Provider } from '@adobe/react-spectr
 import { RecoilRoot } from 'recoil';
 
 import MainContent from './MainContent';
+import ProfileFooter from './ProfileFooter';
 
 // https://github.com/adobe/spectrum-css/blob/main/components/vars/css/globals/spectrum-staticAliases.css#L45
 // https://github.com/adobe/spectrum-css/blob/main/components/vars/css/globals/spectrum-fontGlobals.css#L2
@@ -25,6 +26,8 @@ function App() {
                     </Header>
 
                     <MainContent />
+
+                    <ProfileFooter />
                 </Flex>
             </Provider>
         </RecoilRoot>
