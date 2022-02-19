@@ -6,6 +6,7 @@ specifiers:
   '@joaopalmeiro/prettier-config': ^0.1.1
   '@spectrum-icons/workflow': ^3.2.1
   '@vitejs/plugin-react': ^1.0.7
+  date-fns: ^2.28.0
   eslint: ^8.8.0
   eslint-config-prettier: ^8.3.0
   eslint-plugin-import: ^2.25.4
@@ -27,6 +28,7 @@ specifiers:
 dependencies:
   '@adobe/react-spectrum': 3.15.1_react-dom@17.0.2+react@17.0.2
   '@spectrum-icons/workflow': 3.2.1_react-dom@17.0.2+react@17.0.2
+  date-fns: 2.28.0
   just-range: 4.0.1
   just-remove: 3.0.1
   lodash.isnull: 3.0.0
@@ -2823,6 +2825,11 @@ packages:
   /damerau-levenshtein/1.0.8:
     resolution: {integrity: sha512-sdQSFB7+llfUcQHUQO3+B8ERRj0Oa4w9POWMI/puGtuf7gFywGmkaLCElnudfTiKZV+NvHqL0ifzdrI8Ro7ESA==}
     dev: true
+
+  /date-fns/2.28.0:
+    resolution: {integrity: sha512-8d35hViGYx/QH0icHYCeLmsLmMUheMmTyV9Fcm6gvNwdw31yXXH+O85sOBJ+OLnLQMKZowvpKb6FgMIQjcpvQw==}
+    engines: {node: '>=0.11'}
+    dev: false
 
   /debug/2.6.9:
     resolution: {integrity: sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA==}

@@ -9,6 +9,7 @@
     "dependencies": {
         "@adobe/react-spectrum": "^3.15.1",
         "@spectrum-icons/workflow": "^3.2.1",
+        "date-fns": "^2.28.0",
         "just-range": "^4.0.1",
         "just-remove": "^3.0.1",
         "lodash.isnull": "^3.0.0",

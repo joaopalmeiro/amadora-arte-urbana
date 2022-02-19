@@ -9,3 +9,4 @@ export const numStickers = data.length;
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#numeric_literals
 // https://github.com/cwackerfuss/react-wordle/blob/main/src/lib/words.ts#L58
 export const msInDay = 86_400_000;
+export const epochMs = new Date('February 19, 2022 00:00:00').valueOf();
