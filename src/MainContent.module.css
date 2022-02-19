@@ -1,0 +1,5 @@
+@value ff from "./constants.module.css";
+
+.countdown {
+    font-family: ff;
+}

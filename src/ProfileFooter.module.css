@@ -1,4 +1,7 @@
+@value ff from "./constants.module.css";
+
 .url {
+    font-family: ff;
     transition: filter 150ms ease, color 200ms ease;
     text-decoration: underline;
     cursor: ne-resize;

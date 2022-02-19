@@ -1,0 +1,4 @@
+/* https://www.falldowngoboone.com/blog/share-variables-between-javascript-and-css/#setting-%40value */
+
+/* Default font family */
+@value ff: system-ui, sans-serif;

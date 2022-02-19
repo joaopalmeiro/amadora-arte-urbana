@@ -11,6 +11,7 @@
 - [Kruella D'Enfer's website](http://www.kruelladenfer.com/Water-the-conductor-of-Life).
 - [A datação das décadas e dos séculos](https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/a-datacao-das-decadas-e-dos-seculos/11883) in Ciberdúvidas da Língua Portuguesa.
 - [Trompe-l'œil](https://en.wikipedia.org/wiki/Trompe-l%27%C5%93il) Wikipedia page.
+- [Share variables between JavaScript and CSS](https://www.falldowngoboone.com/blog/share-variables-between-javascript-and-css/) blog post by Ryan Boone.
 
 ## Development
 

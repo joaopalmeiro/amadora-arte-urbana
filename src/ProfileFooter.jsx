@@ -1,6 +1,5 @@
 import { Footer, Link } from '@adobe/react-spectrum';
 
-import { defaultFontFamily } from './constants';
 import classes from './ProfileFooter.module.css';
 
 function ProfileFooter() {
@@ -12,11 +11,7 @@ function ProfileFooter() {
     // https://spectrum.adobe.com/page/color/#Color-themes-and-modes
     return (
         <Footer>
-            <Link
-                variant="secondary"
-                UNSAFE_className={classes.url}
-                UNSAFE_style={{ fontFamily: defaultFontFamily }}
-            >
+            <Link variant="secondary" UNSAFE_className={classes.url}>
                 {/* Source: http://wireframe.company/ by James (https://twitter.com/jamesm) */}
                 <a href="https://joaopalmeiro.github.io/" target="_blank" rel="noreferrer">
                     João Palmeiro

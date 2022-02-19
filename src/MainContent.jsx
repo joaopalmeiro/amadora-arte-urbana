@@ -1,13 +1,22 @@
 import { Button, Content, Text } from '@adobe/react-spectrum';
 import ImageAdd from '@spectrum-icons/workflow/ImageAdd';
 import sampleSize from 'lodash.samplesize';
+import Countdown from 'react-countdown';
 import { useRecoilState, useRecoilValue, useSetRecoilState } from 'recoil';
 
 import { availableState, collectionState, lastTimestampState } from './atoms';
-import { defaultFontFamily, msInDay, packetSize } from './constants';
+import { packetSize, msInDay } from './constants';
+import { ff } from './constants.module.css';
+import classes from './MainContent.module.css';
 import StickerAlbum from './StickerAlbum';
 
-const isSameDay = (referenceTimestamp) => Math.floor((Date.now() - referenceTimestamp) / msInDay);
+const getNextDay = () => {
+    const epochMs = new Date('February 19, 2022 00:00:00').valueOf();
+    const now = Date.now();
+
+    const index = Math.floor((now - epochMs) / msInDay);
+    return (index + 1) * msInDay + epochMs;
+};
 
 function MainContent() {
     // https://recoiljs.org/docs/api-reference/core/useSetRecoilState
@@ -15,15 +24,8 @@ function MainContent() {
     const available = useRecoilValue(availableState);
     // console.log('Available:', available);
     const [lastTimestamp, setLastTimestamp] = useRecoilState(lastTimestampState);
-    // console.log(
-    //     lastTimestamp,
-    //     isSameDay(lastTimestamp),
-    //     isSameDay(new Date('February 20, 2022 00:00:00').valueOf()),
-    //     isSameDay(new Date('February 21, 2022 00:00:00').valueOf()),
-    //     isSameDay(new Date('February 23, 2022 00:00:00').valueOf()),
-    //     isSameDay(new Date('March 10, 2022 00:00:00').valueOf()),
-    //     isSameDay(new Date('January 1, 2022 00:00:00').valueOf())
-    // );
+    // console.log(lastTimestamp, getNextDay(), new Date(getNextDay()));
+    // console.log(ff);
 
     // https://lodash.com/docs/4.17.15#sampleSize
     const handleOnPress = () => {
@@ -41,12 +43,18 @@ function MainContent() {
             <Button
                 variant="cta"
                 onPress={handleOnPress}
-                isDisabled={available.length === 0 || isSameDay(lastTimestamp) === 0}
-                UNSAFE_style={{ fontFamily: defaultFontFamily }}
+                isDisabled={available.length === 0}
+                UNSAFE_style={{ fontFamily: ff }}
             >
                 <ImageAdd />
                 <Text>Abrir</Text>
             </Button>
+
+            {/* https://github.com/cwackerfuss/react-wordle/blob/main/src/components/modals/StatsModal.tsx#L62 */}
+            {/* https://github.com/ndresx/react-countdown */}
+            {/* https://github.com/ndresx/react-countdown/issues/3 */}
+            {/* https://github.com/ndresx/react-countdown/blob/master/src/Countdown.tsx#L342 */}
+            <Countdown date={getNextDay()} daysInHours={true} className={classes.countdown} />
 
             <StickerAlbum />
         </Content>

@@ -17,7 +17,8 @@ import ViewDetail from '@spectrum-icons/workflow/ViewDetail';
 import { useRecoilValue } from 'recoil';
 
 import { collectionState } from './atoms';
-import { defaultFontFamily, numStickers } from './constants';
+import { numStickers } from './constants';
+import { ff } from './constants.module.css';
 import data from './data.json';
 
 const gridColumnSize = 'size-4600';
@@ -66,10 +67,8 @@ function StickerAlbum() {
                         )}
 
                         <Flex direction="column">
-                            <Text UNSAFE_style={{ fontFamily: defaultFontFamily }}>
-                                {d.autoria}
-                            </Text>
-                            <Text UNSAFE_style={{ fontFamily: defaultFontFamily }}>{d.titulo}</Text>
+                            <Text UNSAFE_style={{ fontFamily: ff }}>{d.autoria}</Text>
+                            <Text UNSAFE_style={{ fontFamily: ff }}>{d.titulo}</Text>
 
                             {/* https://react-spectrum.adobe.com/react-spectrum/Dialog.html#examples */}
                             {/* https://react-spectrum.adobe.com/react-spectrum/DialogTrigger.html#dismissable */}
@@ -80,12 +79,12 @@ function StickerAlbum() {
                                     <ViewDetail />
                                 </ActionButton>
                                 <Dialog>
-                                    <Heading UNSAFE_style={{ fontFamily: defaultFontFamily }}>
+                                    <Heading UNSAFE_style={{ fontFamily: ff }}>
                                         {d.autoria}: {d.titulo}
                                     </Heading>
                                     <Divider />
                                     <Content>
-                                        <Text UNSAFE_style={{ fontFamily: defaultFontFamily }}>
+                                        <Text UNSAFE_style={{ fontFamily: ff }}>
                                             {d.descricao_manual}
                                         </Text>
                                     </Content>
