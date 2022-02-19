@@ -45,3 +45,9 @@ export const availableState = selector({
     },
     key: 'availableState'
 });
+
+export const lastTimestampState = atom({
+    default: null,
+    effects: [localStorageEffect('last_timestamp_state')],
+    key: 'lastTimestampState'
+});
