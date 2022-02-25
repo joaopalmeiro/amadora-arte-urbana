@@ -52,3 +52,5 @@
 - `pnpm eslint --print-config .eslintrc`.
 - [View and edit local storage](https://developer.chrome.com/docs/devtools/storage/localstorage/) (Chrome).
 - [`location.reload()`](https://developer.mozilla.org/en-US/docs/Web/API/Location/reload).
+- [Nucleo Icon Guidelines — Introduction](https://blog.nucleoapp.com/nucleo-icon-guidelines-introduction-70092f8b4697):
+  - [Nucleo](https://nucleoapp.com/).
