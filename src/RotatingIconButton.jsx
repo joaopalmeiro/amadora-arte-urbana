@@ -1,11 +1,14 @@
 import PropTypes from 'prop-types';
 import React from 'react';
+import { useRecoilState } from 'recoil';
 
+import { currentProfileState } from './atoms';
 import classes from './RotatingIconButton.module.css';
 
 // Source: https://www.steveruiz.me/posts/rotating-icon-button by Steve Ruiz
 function RotatingIconButton({ children }) {
-    const [current, setCurrent] = React.useState(0);
+    // const [current, setCurrent] = React.useState(0);
+    const [current, setCurrent] = useRecoilState(currentProfileState);
     // console.log(current);
     // console.log(classes);
 

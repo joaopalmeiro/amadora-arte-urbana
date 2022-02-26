@@ -51,3 +51,8 @@ export const lastTimestampState = atom({
     effects: [localStorageEffect('last_timestamp_state')],
     key: 'lastTimestampState'
 });
+
+export const currentProfileState = atom({
+    default: 0,
+    key: 'currentProfileState'
+});
