@@ -54,3 +54,6 @@
 - [`location.reload()`](https://developer.mozilla.org/en-US/docs/Web/API/Location/reload).
 - [Nucleo Icon Guidelines — Introduction](https://blog.nucleoapp.com/nucleo-icon-guidelines-introduction-70092f8b4697):
   - [Nucleo](https://nucleoapp.com/).
+- [Making a Rotating Icon Button in React](https://www.steveruiz.me/posts/rotating-icon-button):
+  - Microinteractions.
+  - [react-feather](https://github.com/feathericons/react-feather) icons. [Design guidelines](https://github.com/feathericons/feather/issues/171#issuecomment-455356985).

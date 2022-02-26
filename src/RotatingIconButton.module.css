@@ -1,0 +1,51 @@
+/* https://github.com/css-modules/css-modules/issues/334 */
+/* https://www.steveruiz.me/posts/rotating-icon-button */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/animation-fill-mode */
+
+@keyframes riseIn {
+    from {
+        transform: translateY(100%);
+    }
+    to {
+        transform: translateY(0%);
+    }
+}
+
+@keyframes riseOut {
+    from {
+        transform: translateY(0%);
+    }
+    to {
+        transform: translateY(-100%);
+    }
+}
+
+.Button {
+    height: 48px;
+    width: 48px;
+    position: relative;
+    padding: 0px;
+    overflow: hidden;
+    cursor: pointer;
+    outline: none;
+    border-radius: 4px;
+    background: transparent;
+    border: none;
+}
+
+.Button:hover {
+    background: rgba(144, 144, 144, 0.1);
+}
+
+.Icon {
+    position: absolute;
+    top: 0px;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* It will retain the computed values set by the last keyframe. */
+    animation-fill-mode: forwards;
+}
