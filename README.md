@@ -53,7 +53,13 @@
 - [View and edit local storage](https://developer.chrome.com/docs/devtools/storage/localstorage/) (Chrome).
 - [`location.reload()`](https://developer.mozilla.org/en-US/docs/Web/API/Location/reload).
 - [Nucleo Icon Guidelines — Introduction](https://blog.nucleoapp.com/nucleo-icon-guidelines-introduction-70092f8b4697):
-  - [Nucleo](https://nucleoapp.com/).
+  - [Nucleo](https://nucleoapp.com/) (icon management app).
+  - The grid used to design the icons adds constraints that force us to match the optical volume of the icons.
+  - 24px × 24px grid.
+  - Matching the optical volume means having a similar ratio between the space occupied by the icon and the space available across the various icons.
+  - To handle optical volume in narrow icons, rotate them by 45 degrees.
 - [Making a Rotating Icon Button in React](https://www.steveruiz.me/posts/rotating-icon-button):
   - Microinteractions.
   - [react-feather](https://github.com/feathericons/react-feather) icons. [Design guidelines](https://github.com/feathericons/feather/issues/171#issuecomment-455356985).
+
+![Optical volume template](img/optical_volume_template.png)
